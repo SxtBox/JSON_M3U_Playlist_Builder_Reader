@@ -1,0 +1,349 @@
+#EXTM3U Albdroid TV Streaming #PHP Streaming Scraper (Wednesday, 26 May 2021 - 18:29:02)
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ERT1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",ERT1
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ert1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ERT2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",ERT2
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ert2
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ERT3" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",ERT3
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ert3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ERT Sports" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",ERT Sports
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ert_sports_hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ERT World" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",ERT World
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ert_world
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ant1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Ant1
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ant1_hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Alpha" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Alpha
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=alpha_hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Skai" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Skai
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=skai_hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Open" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Open
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=open_tv_hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Mega" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Mega
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=mega_hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Star Hd" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Star Hd
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=star_hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Vouli" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Vouli
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=vouli
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Skai [Back Up 1]" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Skai [Back Up 1]
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=skai_hd_bup1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Skai [Back Up 2]" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Skai [Back Up 2]
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=skai_hd_bup2
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Attica Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Attica Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=attica_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Irida Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Irida Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=irida_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Tv 100" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Tv 100
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=tv_100
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Diktyo Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Diktyo Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=diktyo_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Plp" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Plp
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=plp
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Channel 9" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Channel 9
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=channel_9
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Corfu Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Corfu Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=corfu_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Best TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Best TV
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=best_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="One Tv Hd" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",One Tv Hd
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=one_tv_hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Epsilon Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Epsilon Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=epsilon_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Extra Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Extra Channel
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=extra_channel
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Alert" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Alert
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=alert
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ionian Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Ionian Channel
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ionian_channel
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Nea Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Nea Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=nea_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Start Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Start Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=start_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Top Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Top Channel
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=top_channel
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="R Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",R Channel
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=r_channel
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Lepanto" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Lepanto
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=lepanto
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Pella Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Pella Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=pella_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Egnatia Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Egnatia Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=egnatia_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Tv Rodopi" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Tv Rodopi
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=tv_rodopi
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Thrakinet" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Thrakinet
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=thrakinet
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Tile Epiloges" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Tile Epiloges
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=tile_epiloges
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Alfa" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Alfa
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=alfa
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Super B" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Super B
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=super_b
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ort Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Ort Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ort_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Trt Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Trt Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=trt_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Delta Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Delta Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=delta_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Corfu Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Corfu Channel
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=corfu_channel
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Nrg Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Nrg Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=nrg_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Mad Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Mad Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=mad_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Baraza Tv Hd Greek Hits" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Baraza Tv Hd Greek Hits
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=baraza_tv_hd_greek_hits
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Baraza Tv Hd Music Classic Hits" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Baraza Tv Hd Music Classic Hits
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=baraza_tv_hd_music_classic_hits
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ng Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Ng Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ng_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Magic Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Magic Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=magic_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Zougla Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Zougla Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=zougla_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Xalastra Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Xalastra Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=xalastra_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Baraza Tv Hd Music Dance Hits" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Baraza Tv Hd Music Dance Hits
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=baraza_tv_hd_music_dance_hits
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Music Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Music Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=music_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="My Radio Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",My Radio Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=my_radio_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Panik Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Panik Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=panik_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Baraza Tv Hd" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Baraza Tv Hd
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=baraza_tv_hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Choice" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Choice
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=choice
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Messatida Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Messatida Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=messatida_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Baraza Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Baraza Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=baraza_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Baraza Tv Hd Dance μusic" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Baraza Tv Hd Dance μusic
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=baraza_tv_hd_dance_μusic
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Baraza Tv Hd Dance House" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Baraza Tv Hd Dance House
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=baraza_tv_hd_dance_house
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ellinikos Fm" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Ellinikos Fm
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ellinikos_fm
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Eoe Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Eoe Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=eoe_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ekklhsia Tv Hd" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Ekklhsia Tv Hd
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ekklhsia_tv_hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Notioi Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Notioi Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=notioi_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Faros Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Faros Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=faros_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Faros Tv2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Faros Tv2
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=faros_tv2
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hellenic Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Hellenic Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=hellenic_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Epistrofi" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Radio Epistrofi
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=radio_epistrofi
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Bci 24 News" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Bci 24 News
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=bci_24_news
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Mad Radio" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Mad Radio
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=mad_radio
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Tv Notos" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Tv Notos
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=tv_notos
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Vouli Tv2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Vouli Tv2
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=vouli_tv2
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Vouli Tv3" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Vouli Tv3
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=vouli_tv3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Maron Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Maron Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=maron_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Exelen Radio" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Exelen Radio
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=exelen_radio
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Horse Races" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Horse Races
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=horse_races
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Exploring Greece" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Exploring Greece
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=exploring_greece
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Big Brother Greece" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Big Brother Greece
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=big_brother_greece
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Diavata Tv Hd" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Diavata Tv Hd
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=diavata_tv_hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ert Sports 1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Ert Sports 1
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ert_sports_1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ert Sports 2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Ert Sports 2
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ert_sports_2
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ert Sports 3" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Ert Sports 3
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ert_sports_3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Alpha Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Alpha Channel
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=alpha_channel
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Camera Smile" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Camera Smile
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=camera_smile
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Bad Drivers" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Bad Drivers
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=bad_drivers
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Grd Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Grd Channel
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=grd_channel
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ypervasi Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Ypervasi Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ypervasi_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Seen Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Seen Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=seen_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Alitheia" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Alitheia
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=alitheia
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ert Sports 4" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Ert Sports 4
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ert_sports_4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ert Sports 5" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Ert Sports 5
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ert_sports_5
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Greek Tv London" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Greek Tv London
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=greek_tv_london
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ert News" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Ert News
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ert_news
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Greece Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Greece Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=greece_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ellada Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Ellada Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=ellada_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Pemptousia Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Pemptousia Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=pemptousia_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Argolida Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Argolida Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=argolida_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="34100 Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",34100 Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=34100_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Netv Toronto Hd" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Netv Toronto Hd
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=netv_toronto_hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Banana Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Banana Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=banana_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Greek Cinema" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Greek Cinema
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=greek_cinema
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Erta Lex Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Erta Lex Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=erta_lex_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Super Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Super Channel
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=super_channel
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Live Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Live Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=live_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Smile Tv Cy" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Smile Tv Cy
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=smile_tv_cy
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Booba" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Booba
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=booba
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Looney Tunes Tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Looney Tunes Tv
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=looney_tunes_tv
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Rik Sat Cy" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Rik Sat Cy
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=rik_sat_cy
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Cbc Tv Mall Cy" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Cbc Tv Mall Cy
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=cbc_tv_mall_cy
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Digital Tv Cy" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Digital Tv Cy
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=digital_tv_cy
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Seen Tv Cy" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Seen Tv Cy
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=seen_tv_cy
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Faros Tv Cy" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Faros Tv Cy
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=faros_tv_cy
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Faros Tv2 Cy" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Faros Tv2 Cy
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=faros_tv2_cy
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Vouli Tv Cy" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Vouli Tv Cy
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=vouli_tv_cy
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Sigma Cy" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Greek TV",Sigma Cy
+https://demo.kodi.al/Streaming/Mixed_TV/Greece/Netnix_TV/API_Scraper/regex_api.php?stream=sigma_cy

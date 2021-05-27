@@ -1,0 +1,94 @@
+#EXTM3U Albdroid TV Streaming FG Radios (Wednesday, 26 May 2021 - 17:22:39)
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG" tvg-logo="https://ecouter.lesindesradios.net/logos/orange65.png" group-title="FG Radios",FG
+https://radiofg.impek.com/fg.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG CHIC" tvg-logo="https://ecouter.lesindesradios.net/logos/orange235.png" group-title="FG Radios",FG CHIC
+https://radiofg.impek.com/fgc.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MAXXIMUM" tvg-logo="https://ecouter.lesindesradios.net/logos/orange490.png" group-title="FG Radios",MAXXIMUM
+https://radiofg.impek.com/max1.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG DEEP DANCE" tvg-logo="https://ecouter.lesindesradios.net/logos/orange234.png" group-title="FG Radios",FG DEEP DANCE
+https://radiofg.impek.com/fgd.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG STARTER" tvg-logo="https://ecouter.lesindesradios.net/logos/orange236.png" group-title="FG Radios",FG STARTER
+https://radiofg.impek.com/fgv.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG AT WORK" tvg-logo="https://ecouter.lesindesradios.net/logos/orange238.png" group-title="FG Radios",FG AT WORK
+https://radiofg.impek.com/fge.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG DOWN TEMPO" tvg-logo="https://ecouter.lesindesradios.net/logos/orange505.png" group-title="FG Radios",FG DOWN TEMPO
+http://radiofg.impek.com/fg15.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG DISCO FUNK" tvg-logo="https://ecouter.lesindesradios.net/logos/orange506.png" group-title="FG Radios",FG DISCO FUNK
+http://radiofg.impek.com/fg16.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG AVANT GARDE" tvg-logo="https://ecouter.lesindesradios.net/logos/orange233.png" group-title="FG Radios",FG AVANT GARDE
+https://radiofg.impek.com/ufg.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG MIX" tvg-logo="https://ecouter.lesindesradios.net/logos/orange237.png" group-title="FG Radios",FG MIX
+https://radiofg.impek.com/fg6.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG NOMADE" tvg-logo="https://ecouter.lesindesradios.net/logos/orange461.png" group-title="FG Radios",FG NOMADE
+https://radiofg.impek.com/fg13
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG ZEN" tvg-logo="https://ecouter.lesindesradios.net/logos/orange503.png" group-title="FG Radios",FG ZEN
+https://radiofg.impek.com/fg17.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MAXXIMUM 90" tvg-logo="https://ecouter.lesindesradios.net/logos/orange491.png" group-title="FG Radios",MAXXIMUM 90
+https://radiofg.impek.com/max2.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG XTRA" tvg-logo="https://ecouter.lesindesradios.net/logos/orange454.png" group-title="FG Radios",FG XTRA
+http://stream1.impek.com:8300/stream
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Podcast" tvg-logo="/upload/podcasts/photos/carre/60ad31e2677a87.04511179_mini.jpg" group-title="FG Radios",Podcast
+https://www.radiofg.com/upload/podcasts/audios/210525 CFGCP 23H Dim Sum.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Podcast" tvg-logo="/upload/podcasts/photos/carre/60ad050950b393.47079047_mini.png" group-title="FG Radios",Podcast
+https://www.radiofg.com/upload/podcasts/audios/podcast starter 210525.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Podcast" tvg-logo="/upload/podcasts/photos/carre/60ad31965e46b2.06557429_mini.jpg" group-title="FG Radios",Podcast
+https://www.radiofg.com/upload/podcasts/audios/210525 HHDJ Paul Johnson.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG XTRA" tvg-logo="https://ecouter.lesindesradios.net/logos/orange454.png" group-title="FG Radios",FG XTRA
+http://stream1.impek.com:8300/stream
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MAXXIMUM 90" tvg-logo="https://ecouter.lesindesradios.net/logos/orange491.png" group-title="FG Radios",MAXXIMUM 90
+https://radiofg.impek.com/max2.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG ZEN" tvg-logo="https://ecouter.lesindesradios.net/logos/orange503.png" group-title="FG Radios",FG ZEN
+https://radiofg.impek.com/fg17.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG NOMADE" tvg-logo="https://ecouter.lesindesradios.net/logos/orange461.png" group-title="FG Radios",FG NOMADE
+https://radiofg.impek.com/fg13
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG MIX" tvg-logo="https://ecouter.lesindesradios.net/logos/orange237.png" group-title="FG Radios",FG MIX
+https://radiofg.impek.com/fg6.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG AVANT GARDE" tvg-logo="https://ecouter.lesindesradios.net/logos/orange233.png" group-title="FG Radios",FG AVANT GARDE
+https://radiofg.impek.com/ufg.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG DISCO FUNK" tvg-logo="https://ecouter.lesindesradios.net/logos/orange506.png" group-title="FG Radios",FG DISCO FUNK
+http://radiofg.impek.com/fg16.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG DOWN TEMPO" tvg-logo="https://ecouter.lesindesradios.net/logos/orange505.png" group-title="FG Radios",FG DOWN TEMPO
+http://radiofg.impek.com/fg15.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG AT WORK" tvg-logo="https://ecouter.lesindesradios.net/logos/orange238.png" group-title="FG Radios",FG AT WORK
+https://radiofg.impek.com/fge.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG STARTER" tvg-logo="https://ecouter.lesindesradios.net/logos/orange236.png" group-title="FG Radios",FG STARTER
+https://radiofg.impek.com/fgv.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG DEEP DANCE" tvg-logo="https://ecouter.lesindesradios.net/logos/orange234.png" group-title="FG Radios",FG DEEP DANCE
+https://radiofg.impek.com/fgd.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MAXXIMUM" tvg-logo="https://ecouter.lesindesradios.net/logos/orange490.png" group-title="FG Radios",MAXXIMUM
+https://radiofg.impek.com/max1.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG CHIC" tvg-logo="https://ecouter.lesindesradios.net/logos/orange235.png" group-title="FG Radios",FG CHIC
+https://radiofg.impek.com/fgc.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FG" tvg-logo="https://ecouter.lesindesradios.net/logos/orange65.png" group-title="FG Radios",FG
+https://radiofg.impek.com/fg.mp3

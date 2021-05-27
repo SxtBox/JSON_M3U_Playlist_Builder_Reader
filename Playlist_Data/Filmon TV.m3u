@@ -1,0 +1,1198 @@
+#EXTM3U Albdroid TV Streaming #PHP Streaming Scraper (Wednesday, 26 May 2021 - 18:31:57)
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KIKA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",KIKA
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=kika&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="EZ Way TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",EZ Way TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=ez-way-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Loco-Motion TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Loco-Motion TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=loco-motion-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ZDF" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ZDF
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=zdf&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BFM TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",BFM TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bfm-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Castoutofparadise TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Castoutofparadise TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=castoutofparadise-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ZDF INFOKANAL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ZDF INFOKANAL
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=zdf-infokanal&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Nollywood" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Nollywood
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=nollywood&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Darts Nation" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Darts Nation
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Living History Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Living History Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=living-history-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Fun Little Kids" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Fun Little Kids
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=fun-little-kids&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Movie Loft TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Movie Loft TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=movie-loft-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Christmas Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Christmas Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-christmas-channel-by-zuzu-project&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Chai Life TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Chai Life TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=livefromthecenteroftheuniverse&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Roopstigo" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Roopstigo
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=roopstigo&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radicals TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Radicals TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=radicals-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CBS Reality+1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",CBS Reality+1
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=cbs-reality1&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ITV+1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ITV+1
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=itv-plus-1&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ITV2+1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ITV2+1
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=itv2-plus-1&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Food Network+1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Food Network+1
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=food-network-plus-1&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ITV4+1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ITV4+1
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=itv4-plus-1&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ITV3+1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ITV3+1
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=itv3-plus-1&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CBS Reality" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",CBS Reality
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=cbs-reality&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CBS Drama" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",CBS Drama
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=cbs-drama&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC 1 Scotland" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",BBC 1 Scotland
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bbc-1-scotland&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="World of Wine" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",World of Wine
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=world-of-wine&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Galli Lucha Libre" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Galli Lucha Libre
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=galli-lucha-libre&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Torque and Tush" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Torque and Tush
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=torque-and-tush&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Joe Nation" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Joe Nation
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=joe-nation&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CBeebies" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",CBeebies
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=cbeebies&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Creepy Crawly " tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Creepy Crawly 
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=creepy-crawly&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ITV4" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ITV4
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=itv4&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC Four" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",BBC Four
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=cbeebiesbbc-four&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Montreal Greek TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Montreal Greek TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Alien (invasion) channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Alien (invasion) channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=alien-invasion-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Chef Roc TV Show" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Chef Roc TV Show
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-chef-roc-tv-show&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Bikini Girls Show and Tell" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Bikini Girls Show and Tell
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bikini-girls-show-and-tell&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ultimate Disc TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Ultimate Disc TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=ultimate-disc-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FilmOn Jazz and Blues" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",FilmOn Jazz and Blues
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-jazz-and-blues&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Miss Earth Puerto Rico Pageant" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Miss Earth Puerto Rico Pageant
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Bid America" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Bid America
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bid-america&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Wild About Animals" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Wild About Animals
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=wild-about-animals&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Rep Yo City" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Rep Yo City
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Deals TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Deals TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=deals-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Romance" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Romance
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Lucy Show" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Lucy Show
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-lucy-show&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Armed Forces Boxing/US Army" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Armed Forces Boxing/US Army
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=armed-forces-boxing&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Razzies Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Razzies Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=razzies-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="StarShop" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",StarShop
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=starshop&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ultimate Outdoors" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Ultimate Outdoors
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=ultimate-outdoors&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Sports Bloopers TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Sports Bloopers TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=sports-bloopers-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Placeholders" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Placeholders
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-placeholders&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="AFL Classic" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",AFL Classic
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=afl-classics&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Wineram TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Wineram TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=wineram&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Battle Rap" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Battle Rap
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=battle-rap&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Eye for an Eye" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Eye for an Eye
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=eye-for-an-eye&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Mega Destinations" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Mega Destinations
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=mega-destinations&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Film Detective" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Film Detective
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-film-detective&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Insider Exclusive TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Insider Exclusive TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=insider-exclusive-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Blitzed" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Blitzed
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Sprockets & Splices" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Sprockets & Splices
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=sprockets-and-splices-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="AspireNow TV " tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",AspireNow TV 
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=aspirenow-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MegaMe TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",MegaMe TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=megame-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Player TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Player TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=player-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Tipstr.TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Tipstr.TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=tipstrtv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Janey Kirk TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Janey Kirk TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=janey-kirk-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Aliens and UFOs" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Aliens and UFOs
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=aliens-and-ufos&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Director's Cut" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Director's Cut
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Chillings" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Chillings
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=chillings&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Tomorrow Pictures" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Tomorrow Pictures
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=tomorrow-pictures&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Little Smart Planet" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Little Smart Planet
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Saudi Arabian TV Sports" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Saudi Arabian TV Sports
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=saudi-arabian-tv-sports&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Saudi Arabian TV 2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Saudi Arabian TV 2
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=saudi-arabian-tv-2&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Telenovelas TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Telenovelas TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=telenovelas-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Saudi Arabian TV 1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Saudi Arabian TV 1
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=saudi-arabian-tv-1&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FilmOn Reality" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",FilmOn Reality
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-reality&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Noor Dubai" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Noor Dubai
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=noor-dubai&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Miss Top of the World" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Miss Top of the World
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=miss-top-of-the-world&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Eri TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Eri TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=eri-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RIK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",RIK
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=rik&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTR Planeta" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",RTR Planeta
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=rtr-planeta&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Perviy kanal Europa" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Perviy kanal Europa
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=perviy-kanal-europa&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Rossiya 24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Rossiya 24
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=rossiya-24&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Game Time" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Game Time
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=game-time&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Rotana Clip" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Rotana Clip
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=rotana-clip&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Home and Green Living" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Home and Green Living
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=home-and-green-living&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Rotana" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Rotana
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=rotana&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Monster Madhouse" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Monster Madhouse
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=monster-madhouse&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Rotana Classic" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Rotana Classic
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=rotana-classic&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Rotana Khalijiah" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Rotana Khalijiah
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=rotana-khalijiah&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Rotana Masriya" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Rotana Masriya
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=rotana-masriya&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Rotana Aflam" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Rotana Aflam
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=rotana-aflam&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Rotana Cinema" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Rotana Cinema
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=rotana-cinema&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="France 2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",France 2
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=france-2&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="30a TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",30a TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=30a-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ARTE Français" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ARTE Français
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=arte-francais&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Fun Little Movies" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Fun Little Movies
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=fun-little-movies&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="High School" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",High School
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=high-school&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Canal Extremadura Satélite" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Canal Extremadura Satélite
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Canal Portada" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Canal Portada
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Award Cinema" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Award Cinema
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=award-cinema&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Campy Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Campy Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=campy-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Canal 24 Horas" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Canal 24 Horas
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name=" New York Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV", New York Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=new-york-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Galicia TV Europa" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Galicia TV Europa
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TVE Internacional Europa" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",TVE Internacional Europa
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Dick Van Dyke Show" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Dick Van Dyke Show
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-dick-van-dyke-show&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Major Crimes" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Major Crimes
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=major-crimes&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Canal Sur Andalucía" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Canal Sur Andalucía
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Gurvey's Law" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Gurvey's Law
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WHO?MAG TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",WHO?MAG TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=whomag-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DMTV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",DMTV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=dmtv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Red Chip Money Report" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Red Chip Money Report
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=red-chip-money-report&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Wilderness Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Wilderness Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=wilderness-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Italia Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Italia Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=canale-italia&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Beatles Stories" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Beatles Stories
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=beatles-stories&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="New Star TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",New Star TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=new-star-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WHO?MAG Video Vision" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",WHO?MAG Video Vision
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=whomag-video-vision&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Zombie Underworld" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Zombie Underworld
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=zombie-underworld&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Aragón TV INT" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Aragón TV INT
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=aragon-tv-int&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Vampire Empire" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Vampire Empire
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=vampire-empire&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Eurotrash" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Eurotrash
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=eurotrash&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Aaj Tak" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Aaj Tak
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=aaj-tak&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Country Star TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Country Star TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=country-star-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Gastrolab" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Gastrolab
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=gastrolab&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TVM TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",TVM TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Tagesschau24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Tagesschau24
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=eins-extra&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Charlie Moore: No Offense" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Charlie Moore: No Offense
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=charlie-mooer-no-offense&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SOBA Network" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",SOBA Network
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=soba-network&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Money TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Money TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Al Jazeera Arabic" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Al Jazeera Arabic
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=al-jazeera-arabic&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Al Jazeera Mubasher" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Al Jazeera Mubasher
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=al-jazeera-mubasher&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Eins Festival" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Eins Festival
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=eins-festival&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Al Jazeera Documentary" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Al Jazeera Documentary
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=al-jazeera-documentary&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Phoenix" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Phoenix
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=phoenix&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Horror Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Horror Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=horror-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Igboro TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Igboro TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=igboro-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Student Of The Gun" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Student Of The Gun
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=student-of-the-gun&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Travel Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Travel Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=travel-channel1&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="5USA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",5USA
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=5usa&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="PROHBTD" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",PROHBTD
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=prohbtd&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="5*" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",5*
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=5-star&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HSE24 HD" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",HSE24 HD
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=hse24-hd&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Sophia TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Sophia TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=sophia-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Die neue Zeit TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Die neue Zeit TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=die-neue-zeit-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="France 3 Rhône-Alpes" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",France 3 Rhône-Alpes
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=france-3-rhone-alpes&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="France 3 Alpes" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",France 3 Alpes
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=france-3-alpes&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HSE24 Extra" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",HSE24 Extra
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=hse24-extra&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="France 0" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",France 0
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=france-0&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Celebrity Action Network" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Celebrity Action Network
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=celebrity-action-network&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="California Life" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",California Life
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=california-life&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Wonderful Living TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Wonderful Living TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=wonderful-living-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Tribe TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Tribe TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=tribe-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Documentary" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Documentary
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=documentary&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="jbtv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",jbtv
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=jbtv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HWC Network" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",HWC Network
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=hwc-network&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC Parliament" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",BBC Parliament
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bbc-parliament&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Movies" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Movies
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=movies&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MMA Now" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",MMA Now
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=mmanow&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Job Channel Network" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Job Channel Network
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=job-channel-network&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TalentWatch" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",TalentWatch
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=talentwatch&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CCTV News" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",CCTV News
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=cctv-news&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Lumbfilm Comedy" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Lumbfilm Comedy
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=lumbfilm-comedy&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Planet X Sport" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Planet X Sport
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=planet-x-sport&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Miss Multiverse" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Miss Multiverse
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=miss-multiverse&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Strange Paradise" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Strange Paradise
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=strange-paradise&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="EDM TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",EDM TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=edm-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Catwalk" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Catwalk
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=catwalk&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Alki Live" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Alki Live
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=alkidavid360&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Alki David" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Alki David
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Russia Today" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Russia Today
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=russia-today-2&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Bloodzillathon" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Bloodzillathon
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bloodzillathon&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="More 4" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",More 4
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=more4&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KONTRA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",KONTRA
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NEA TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",NEA TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Drama Shorts" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Drama Shorts
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=drama-shorts&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FilmOn War Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",FilmOn War Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-war-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Banned Westerns" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Banned Westerns
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=banned-westerns&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="J Club TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",J Club TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=j-club-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Bonanza" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Bonanza
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-binge-bonanza&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="EPT 1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",EPT 1
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CRETE TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",CRETE TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="EPT Sports" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",EPT Sports
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Charlie Chaplin" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Charlie Chaplin
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-binge-charlie-chaplin&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="One Step Beyond" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",One Step Beyond
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-binge-one-step-beyond&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Sherlock Holmes Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Sherlock Holmes Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=sherlock-holmes-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ozzie & Harriet" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Ozzie & Harriet
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-binge-ozzie-harriet&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Beverly Hillbillies" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Beverly Hillbillies
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-binge-the-beverly-hillbillies&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Party Girls TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Party Girls TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=party-girls-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Robin Hood " tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Robin Hood 
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-binge-adventures-of-robin-hood&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Buddy Plant" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Buddy Plant
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=buddy-plant&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Om Nom" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Om Nom
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=om-nom&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="R9 Oesterreich" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",R9 Oesterreich
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Deutschland Vozrozhdenie" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Deutschland Vozrozhdenie
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Thai Global Network" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Thai Global Network
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TBN Russia" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",TBN Russia
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC Arabic TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",BBC Arabic TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="iFood TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",iFood TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=ifood-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Dude Food" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Dude Food
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=dude-food&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="E4" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",E4
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=e4&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ITV2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ITV2
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=itv2&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Indian Recipes" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Indian Recipes
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=indian-recipes&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Dubai Sports" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Dubai Sports
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=dubai-sports&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Filmon Red Carpet" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Filmon Red Carpet
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-red-carpet&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Bloomberg" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Bloomberg
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bloomberg&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hottest Cheerleaders" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Hottest Cheerleaders
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=americas-hottest-cheerleaders&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FilmOn Comedy Classics" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",FilmOn Comedy Classics
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-comedy-classics&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Thespian Theater" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Thespian Theater
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=thespian-theater&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FilmOn Wrestling Network" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",FilmOn Wrestling Network
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-wrestling-network&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="QVC Deutschland" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",QVC Deutschland
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=qvc-deutschland&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="QVC PLUS Deutsch" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",QVC PLUS Deutsch
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=qvc-plus&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ITV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ITV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=itv1&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Film4" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Film4
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=film-4&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC One" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",BBC One
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bbc-one&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ZDF Neo" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ZDF Neo
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=zdfneo&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC 1 North Ireland" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",BBC 1 North Ireland
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bbc-1-north-ireland&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Food Network" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Food Network
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=food-network&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Channel 5" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Channel 5
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=channel-5&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC Two" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",BBC Two
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bbc-two&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ITV3" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ITV3
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=itv3&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC News" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",BBC News
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bbc-news&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CBBC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",CBBC
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=cbbc&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="PickTV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",PickTV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=pick-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Really" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Really
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=really&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FilmOn Football " tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",FilmOn Football 
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-football&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Camera dei Deputati" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Camera dei Deputati
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=camera-dei-deputati&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Dubai TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Dubai TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Bikini TeeVee" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Bikini TeeVee
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bikini-teevee&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WW2 TeeVee" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",WW2 TeeVee
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=war-crime-network&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Western Tee Vee" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Western Tee Vee
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Raw Report" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Raw Report
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-raw-report&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Kartoon Klassics" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Kartoon Klassics
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=kartoon-klassics&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Kix!" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Kix!
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=kix&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Golden Boy Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Golden Boy Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=golden-boy-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Tiny Pop" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Tiny Pop
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=tiny-pop&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Health and Lifestyle" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Health and Lifestyle
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=health-and-lifestyle&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Flash Gordon TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Flash Gordon TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=flash-gordon&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Angels from the Attic Create-Alongs" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Angels from the Attic Create-Alongs
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-angels-from-the-attic-create-alongs&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="POP" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",POP
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=pop&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Tales Of Tomorrow" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Tales Of Tomorrow
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Angels from the Attic Featurettes" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Angels from the Attic Featurettes
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-angels-from-the-attic-featurettes&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Trailer Nut TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Trailer Nut TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=trailer-nut-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Angels from the Attic ComicFlix" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Angels from the Attic ComicFlix
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-angels-from-the-attic-comicflix&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WKAJ TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",WKAJ TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=wkaj-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Drone TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Drone TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=drone-race-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="XCORPS  " tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",XCORPS  
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=xcorps&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hollywood Show Live  " tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Hollywood Show Live  
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=hollywood-show-live&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Clutch Cargo" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Clutch Cargo
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Talent You Should Know" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Talent You Should Know
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=talent-you-should-know&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Teos TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Teos TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=teos-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Kato" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Kato
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=kato&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Nik Richie Network" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Nik Richie Network
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=nik-richie-network&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Irrefutable Evidence TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Irrefutable Evidence TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=irrefutable-evidence-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Audio Scripture Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Audio Scripture Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=audio-scripture-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="comiCZoo" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",comiCZoo
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=comiczoo&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Felix The Cat" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Felix The Cat
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Petticoat Junction" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Petticoat Junction
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Forces TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Forces TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=forces-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FilmOn Classic Films" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",FilmOn Classic Films
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-classic-films&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Reader's Digest Lifetime" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Reader's Digest Lifetime
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Caribbean Shopping Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Caribbean Shopping Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=caribbean-shopping-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Steel Dreams" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Steel Dreams
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=steel-dreams&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Distant Roads" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Distant Roads
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=distant-roads&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Supreme Master TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Supreme Master TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=supreme-master-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Victory at Sea TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Victory at Sea TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=victory-at-sea-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Eco-Rico" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Eco-Rico
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=eco-rico&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="UFC Next" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",UFC Next
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=ufc-next&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Colgate Comedy Hour" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Colgate Comedy Hour
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-colgate-comedy-hour&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Live9 TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Live9 TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=live9-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Life of Riley TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Life of Riley TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-life-of-riley-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Red Skelton Show TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Red Skelton Show TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-red-skelton-show-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Christmastime TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Christmastime TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=christmastime-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Grandstand Show" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Grandstand Show
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=grandstand-show&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Bikini Kitchen" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Bikini Kitchen
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bikini-kitchen&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Snooker Legends" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Snooker Legends
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=snooker-legends&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DVIDs TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",DVIDs TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=dvids-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Faith Cinema" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Faith Cinema
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=faith-cinema&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Extra News" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Extra News
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Miki Show" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Miki Show
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-miki-show&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Popeye TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Popeye TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=popeye-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Oman TV General" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Oman TV General
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Super Geek Heroes" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Super Geek Heroes
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=super-geek-heroes&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Miami Music Television" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Miami Music Television
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=miami-music-television&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="World Food Championships " tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",World Food Championships 
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=world-food-championships&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="LA Focus Events" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",LA Focus Events
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=la-focus-events&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Sassoon TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Sassoon TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=sassoon-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Monarch Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Monarch Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-monarch-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Focus Hollywood" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Focus Hollywood
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=focus-hollywood&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="LA Home" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",LA Home
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=la-home&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Oman TV Live" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Oman TV Live
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Thoroughbred World Show" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Thoroughbred World Show
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=thoroughbred-show&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HotRock TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",HotRock TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=hotrock-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Oman TV Culture" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Oman TV Culture
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Real Life History Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Real Life History Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=real-life-history-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Vape Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Vape Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=vape-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Josh and JB in the Industry" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Josh and JB in the Industry
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=josh-and-jb-in-the-industry&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Road2Fame" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Road2Fame
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=road2fame&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="LA Focus Originals" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",LA Focus Originals
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=la-focus-originals&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="EIC TV " tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",EIC TV 
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=eic-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ghost Hunters" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Ghost Hunters
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=ghost-hunters&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Renderyard Films" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Renderyard Films
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=renderyard-films&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Schweiz 5 " tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Schweiz 5 
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Dragnet TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Dragnet TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=dragnet-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Mad Science Cinema" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Mad Science Cinema
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=mad-science-cinema&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="QS24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",QS24
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Box" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Box
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="You Bet Your Life TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",You Bet Your Life TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=you-bet-your-life-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hollywood @ War" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Hollywood @ War
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=hollywood-war&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Funny Company TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Funny Company TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=funny-company-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Drama" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Drama
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Suspense TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Suspense TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=suspense-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Box Hits" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Box Hits
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Weedmaps TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Weedmaps TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=weedmaps-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Fury TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Fury TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=fury-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Betty Boop TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Betty Boop TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=betty-boop-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Love On The Range" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Love On The Range
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=love-on-the-range&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Films Of India" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Films Of India
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=original-films-of-india&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Man with a Camera TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Man with a Camera TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=man-with-a-camera-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="El Watania TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",El Watania TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Kids Zone" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Kids Zone
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=kids-zone&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Cisco Kid TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Cisco Kid TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=cisco-kid-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Destination X" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Destination X
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=destination-x&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Silent Cinema" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Silent Cinema
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=silent-cinema&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Date with the Angels TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Date with the Angels TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=date-with-angels-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="West Coast Praze" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",West Coast Praze
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=global-music-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Nub TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Nub TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=nub-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Somali National TV " tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Somali National TV 
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=somali-national-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Vox Schweiz" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Vox Schweiz
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TV GOLD" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",TV GOLD
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=tv-gold&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Sat. 1 Schweiz" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Sat. 1 Schweiz
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MHL TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",MHL TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=mhl-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Fighting Athletes Network" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Fighting Athletes Network
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=fighting-athletes-network&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RT Documentary" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",RT Documentary
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=rt-documentary&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="1 on 1 Boxing TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",1 on 1 Boxing TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=1-on-1-boxing-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="iFlix TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",iFlix TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=iflix-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ABP News" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ABP News
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=abp-news&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Caribbean Lifestyle Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Caribbean Lifestyle Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=caribbean-lifestyle-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CBS Action" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",CBS Action
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=cbs-action&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Bikini Down Under" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Bikini Down Under
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bikini-down-under&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Kung Fu Classics" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Kung Fu Classics
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=kung-fu-classics&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FilmOn Documentary " tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",FilmOn Documentary 
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-documentary&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Seven Sins TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Seven Sins TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=seven-sins-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Smarts TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Smarts TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=smarts-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Tails TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Tails TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=tails-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="UFO News" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",UFO News
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=ufo-news&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Rose Parade 2017" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Rose Parade 2017
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=rose-parade-2016&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Runway TV 2016" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Runway TV 2016
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=runway-tv-2016&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Filmon Family" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Filmon Family
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-family&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CNBC Europe" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",CNBC Europe
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=cnbc-europe&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC ETV2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",BBC ETV2
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=etv2&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="360 Experimental" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",360 Experimental
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=360-experimental&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC ETV1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",BBC ETV1
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=etv1&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Chico" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Radio Chico
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=radio-chico&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Modern Face of Beauty" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Modern Face of Beauty
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=my-face-my-body&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="The Global Goals" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",The Global Goals
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=the-global-goals&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Pugilism TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Pugilism TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=pugilism-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Private Secretary TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Private Secretary TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=private-secretary-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FBI Insider" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",FBI Insider
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=fbi-insider&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Children's Reading Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Children's Reading Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=childrens-reading-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Shockya Trailers" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Shockya Trailers
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=fotv-trailers&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Dr. Fab Show" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Dr. Fab Show
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=dr-fab-show&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Planet Fashion en Espanol" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Planet Fashion en Espanol
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=planet-fashion-en-espanol&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Televideo Latino" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Televideo Latino
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=televideo-latino&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Jimmy Lloyd Song Writer Showcase" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Jimmy Lloyd Song Writer Showcase
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=jimmy-lloyd-song-writer-showcase&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Catwalk en Espanol" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Catwalk en Espanol
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=catwalk-en-espanol&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Peliculas de FilmOn" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Peliculas de FilmOn
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=peliculas-de-filmon&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Tayla's Toddler Toy Review" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Tayla's Toddler Toy Review
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=taylas-toddler-toy-review&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Animacion de FilmOn" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Animacion de FilmOn
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=animacion-de-filmon&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SPORT1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",SPORT1
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=sport1&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Dragon Arena" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Dragon Arena
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=dragon-arena&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="B-Movie!" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",B-Movie!
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=b-movie&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Bayou Country Outdoors" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Bayou Country Outdoors
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bayou-country-outdoors&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC World News" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",BBC World News
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bbc-world-news&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Rated B" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Rated B
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=rated-b&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Truth Files" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Truth Files
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=truth-files&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ireland's Country TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Ireland's Country TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=irelands-country-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Simply Me" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Simply Me
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=simply-me&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Cheer Channel" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Cheer Channel
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=cheer-channel&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Supa Pirate Booty Hunt" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Supa Pirate Booty Hunt
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=supa-pirate-booty-hunt&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Teen Shorts" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Teen Shorts
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=teen-shorts&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Kid's Rock TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Kid's Rock TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=kids-rock-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ITVBe" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ITVBe
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=itvbe&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Mongolian Invasion" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Mongolian Invasion
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Medical News Minute" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Medical News Minute
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=medical-news-minute&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Yesterday" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Yesterday
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=yesterday&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Challenge" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Challenge
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=challenge&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Britrox" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Britrox
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=britrox&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Matriarch TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Matriarch TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=matriarch-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="OBXTV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",OBXTV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=obxtv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC 1 Wales" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",BBC 1 Wales
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=bbc-1-wales&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CCTV9 Documentary" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",CCTV9 Documentary
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=cctv9-documentary&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="On The Mike" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",On The Mike
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Channel 4" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Channel 4
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=channel-4&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Really TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Really TV
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=reality-tv&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Al Jazeera" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Al Jazeera
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=al-jazeera&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FilmOn Kids" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",FilmOn Kids
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=filmon-kids&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ROC Summer Explosion" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",ROC Summer Explosion
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=roc-summer-explosion&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="XPTV Sports" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",XPTV Sports
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=&format=hd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Sci Fi" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Filmon TV",Sci Fi
+http://paidcodes.albdroid.al/Filmon_TV_APIS/V1/get_streams.php?get=all_streams&channel=sci-fi&format=hd

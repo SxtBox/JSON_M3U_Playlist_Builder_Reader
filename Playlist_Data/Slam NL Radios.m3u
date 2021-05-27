@@ -1,0 +1,31 @@
+#EXTM3U Albdroid TV Streaming #Slam.NL Radios (Wednesday, 26 May 2021 - 17:26:02)
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Slam.NL Radios" tvg-logo="https://scale.slam.nl/imageScaled/?site=slam&file=1551091620_Slam_stream2.png" group-title="Slam.NL Radios",SLAM!
+http://stream.radiocorp.nl/slam_aac
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Slam.NL Radios" tvg-logo="https://scale.slam.nl/imageScaled/?site=slam&file=1551091742_Slam402.png" group-title="Slam.NL Radios",SLAM! 40
+http://stream.radiocorp.nl/web14_aac
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Slam.NL Radios" tvg-logo="https://scale.slam.nl/imageScaled/?site=slam&file=" group-title="Slam.NL Radios",SLAM! Summer
+http://stream.radiocorp.nl/web08_aac
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Slam.NL Radios" tvg-logo="https://scale.slam.nl/imageScaled/?site=slam&file=1606751580_00s-site.png" group-title="Slam.NL Radios",SLAM! 00's
+http://stream.radiocorp.nl/web15_aac
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Slam.NL Radios" tvg-logo="https://scale.slam.nl/imageScaled/?site=slam&file=1551091677_Slamhardstyle2.png" group-title="Slam.NL Radios",SLAM! Hardstyle
+http://stream.radiocorp.nl/web11_aac
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Slam.NL Radios" tvg-logo="https://scale.slam.nl/imageScaled/?site=slam&file=1551091701_Slamboomroom2.png" group-title="Slam.NL Radios",SLAM! The Boom Room
+http://stream.radiocorp.nl/web12_aac
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Slam.NL Radios" tvg-logo="https://scale.slam.nl/imageScaled/?site=slam&file=1551091656_Slammix2.png" group-title="Slam.NL Radios",SLAM! MixMarathon
+http://stream.radiocorp.nl/web13_aac
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Slam.NL Radios" tvg-logo="https://scale.slam.nl/imageScaled/?site=slam&file=1551091766_Slamnonstop2.png" group-title="Slam.NL Radios",SLAM! Non-stop
+http://stream.radiocorp.nl/web10_aac
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Slam.NL Radios" tvg-logo="https://scale.slam.nl/imageScaled/?site=slam&file=1551091786_SlamJuize2.png" group-title="Slam.NL Radios",SLAM! Juize
+http://stream.radiocorp.nl/web09_aac
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Slam.NL Radios" tvg-logo="https://scale.slam.nl/imageScaled/?site=slam&file=1568041496_slam.png" group-title="Slam.NL Radios",SLAM! Housuh In De Pauzuh
+http://stream.radiocorp.nl/web16_aac

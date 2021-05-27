@@ -1,0 +1,25 @@
+#EXTM3U Albdroid TV Streaming #Normal Mode #Scraping from https://weareone.fm
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Techno Base FM" tvg-logo="https://png.kodi.al/radio/hard/weareone_fm/TechnoBase.png" group-title="WeAreOne dot FM Radios",Techno Base FM
+https://mp3.stream.tb-group.fm/tb.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="House Time FM" tvg-logo="https://png.kodi.al/radio/hard/weareone_fm/HouseTime.png" group-title="WeAreOne dot FM Radios",House Time FM
+https://mp3.stream.tb-group.fm/ht.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hard Base FM" tvg-logo="https://png.kodi.al/radio/hard/weareone_fm/HardBase.png" group-title="WeAreOne dot FM Radios",Hard Base FM
+https://mp3.stream.tb-group.fm/hb.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Trance Base FM" tvg-logo="https://png.kodi.al/radio/hard/weareone_fm/TranceBase.png" group-title="WeAreOne dot FM Radios",Trance Base FM
+https://mp3.stream.tb-group.fm/trb.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Core Time FM" tvg-logo="https://png.kodi.al/radio/hard/weareone_fm/CoreTime.png" group-title="WeAreOne dot FM Radios",Core Time FM
+https://mp3.stream.tb-group.fm/ct.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Club Time FM" tvg-logo="https://png.kodi.al/radio/hard/weareone_fm/ClubTime.png" group-title="WeAreOne dot FM Radios",Club Time FM
+https://mp3.stream.tb-group.fm/clt.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Tea Time FM" tvg-logo="https://png.kodi.al/radio/hard/weareone_fm/TeaTime.png" group-title="WeAreOne dot FM Radios",Tea Time FM
+https://mp3.stream.tb-group.fm/tt.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Replay FM" tvg-logo="https://png.kodi.al/radio/hard/weareone_fm/Replay.png" group-title="WeAreOne dot FM Radios",Replay FM
+https://mp3.stream.tb-group.fm/rp.mp3

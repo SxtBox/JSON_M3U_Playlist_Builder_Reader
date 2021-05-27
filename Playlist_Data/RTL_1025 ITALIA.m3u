@@ -1,0 +1,64 @@
+#EXTM3U Albdroid TV Streaming #RTL 105 Radio TV Italia (Wednesday, 26 May 2021 - 22:45:14)
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-jjffs.png" group-title="RTL 105 Radio TV",RTL 102.5
+https://rtl-radio1-stream.thron.com/live/radio1/radio1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 Radiovisione" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-radiovisione-uigud.png" group-title="RTL 105 Radio TV",RTL 102.5 Radiovisione
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radiofreccia" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/radiofreccia-ytsvf.png" group-title="RTL 105 Radio TV",Radiofreccia
+https://rtl-radio6-stream.thron.com/live/radio6/radio6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radiofreccia" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/radiofreccia-radiovisione-khvlf.png" group-title="RTL 105 Radio TV",Radiofreccia
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Zeta" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/radio-zeta-cy0fr.png" group-title="RTL 105 Radio TV",Radio Zeta
+https://rtl-radio3-stream.thron.com/live/radio3/radio3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Zeta" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/radio-zeta-6fpkq.png" group-title="RTL 105 Radio TV",Radio Zeta
+https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 Extra" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-extra-llaun.png" group-title="RTL 105 Radio TV",RTL 102.5 Extra
+https://rtl-video12-stream.thron.com/live-video/video12/ngrp:video12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 Doc" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-doc-wr8oc.png" group-title="RTL 105 Radio TV",RTL 102.5 Doc
+https://rtl-radio12-stream.thron.com/live/radio12/radio12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 Doc" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-doc-agir4.png" group-title="RTL 105 Radio TV",RTL 102.5 Doc
+https://rtl-video6-stream.thron.com/live-video/video6/ngrp:video6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 News" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-news-pqxh1.png" group-title="RTL 105 Radio TV",RTL 102.5 News
+https://rtl-radio13-stream.thron.com/live/radio13/radio13/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 News" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-news-rpakv.png" group-title="RTL 105 Radio TV",RTL 102.5 News
+https://rtl-video7-stream.thron.com/live-video/video7/ngrp:video7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 Best" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-best-tujiw.png" group-title="RTL 105 Radio TV",RTL 102.5 Best
+https://rtl-radio2-stream.thron.com/live/radio2/radio2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 Best" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-best-0ts3l.png" group-title="RTL 105 Radio TV",RTL 102.5 Best
+https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 Napulè" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-napula-tttj6.png" group-title="RTL 105 Radio TV",RTL 102.5 Napulè
+https://rtl-radio11-stream.thron.com/live/radio11/radio11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 Napulè" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-napula-f52lt.png" group-title="RTL 105 Radio TV",RTL 102.5 Napulè
+https://rtl-video5-stream.thron.com/live-video/video5/ngrp:video5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 Guardia Costiera" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-guardia-costiera-qyizp.png" group-title="RTL 105 Radio TV",RTL 102.5 Guardia Costiera
+https://rtl-radio5-stream.thron.com/live/radio5/radio5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 Guardia Costiera" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-guardia-costiera-zlb9o.png" group-title="RTL 105 Radio TV",RTL 102.5 Guardia Costiera
+https://rtl-video11-stream.thron.com/live-video/video11/ngrp:video11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 Romeo&Juliet" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-romeo-and-juliet-uhcec.png" group-title="RTL 105 Radio TV",RTL 102.5 Romeo&Juliet
+https://rtl-radio7-stream.thron.com/live/radio7/radio7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 Romeo&Juliet" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-romeo-and-juliet-vf2rw.png" group-title="RTL 105 Radio TV",RTL 102.5 Romeo&Juliet
+https://rtl-video9-stream.thron.com/live-video/video9/ngrp:video9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 Bro&Sis" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-bro-and-sis-otukj.png" group-title="RTL 105 Radio TV",RTL 102.5 Bro&Sis
+https://rtl-radio4-stream.thron.com/live/radio4/radio4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTL 102.5 Bro&Sis" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-bro-and-sis-c1oie.png" group-title="RTL 105 Radio TV",RTL 102.5 Bro&Sis
+https://rtl-video8-stream.thron.com/live-video/video8/ngrp:video8/playlist.m3u8

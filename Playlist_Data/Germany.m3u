@@ -1,0 +1,157 @@
+#EXTM3U Albdroid TV Streaming #PHP Streaming Scraper (Wednesday, 26 May 2021 - 22:41:32)
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Das Erste" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",Das Erste
+https://daserstelive-lh.akamaihd.net/i/daserste_de@38086/index_2692_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ZDF" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",ZDF
+https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ZDFneo" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",ZDFneo
+https://zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ZDFinfo" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",ZDFinfo
+https://zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ZDFheute" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",ZDFheute
+https://zdf0102-lh.akamaihd.net/i/none01_v1@392849/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="PHOENIX" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",PHOENIX
+http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/index_1496_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="3sat" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",3sat
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="arte" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",arte
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KiKA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",KiKA
+http://kikade-lh.akamaihd.net/i/livetvkika_de@450035/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MDR Sachsen-Anhalt" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",MDR Sachsen-Anhalt
+http://livetvsachsenanhalt.mdr.de/i/livetvmdrsachsenanhalt_de@106901/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MDR+" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",MDR+
+http://liveevent1.mdr.de/i/livetvmdrevent1_ww@106904/index_3871_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="rbb" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",rbb
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_8_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",BR
+https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ARD-alpha" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",ARD-alpha
+https://br_hdslive-f.akamaihd-staging.net/i/bralpha_germany@119899/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SWR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",SWR
+http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/index_3584_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SWR3 Visual Radio" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",SWR3 Visual Radio
+http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/index_3584_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DASDING Visual Radio" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",DASDING Visual Radio
+http://swrdasding-lh.akamaihd.net/i/dasdingvisual_live@6416/index_3584_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",SR
+http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="hr" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",hr
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DW Deutsch" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",DW Deutsch
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NDR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",NDR
+http://ndrfs.ndr.de/i/ndrfs_nds@119224/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ONE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",ONE
+http://onelivestream.wdr.de/i/wdr_einsfestival@328300/index_7_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WDR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",WDR
+http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="tagesschau.de" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",tagesschau.de
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Nick" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",Nick
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MTV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Family TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",Family TV
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/index_500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="blizz" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",blizz
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/index_500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Deluxe Music" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",Deluxe Music
+http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="n-tv" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",n-tv
+http://p.live.akamai.n-tv.de/playlists/ntvlive-ipadakamai.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="N24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",N24
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TV Halle" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",TV Halle
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Offener Kanal Merseburg-Querfurt" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",Offener Kanal Merseburg-Querfurt
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MDR JUMP" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",MDR JUMP
+http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MDR JUMP IN THE MIX" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",MDR JUMP IN THE MIX
+http://mdr-284321-2.cast.mdr.de/mdr/284321/2/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MDR JUMP TRENDCHANNEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",MDR JUMP TRENDCHANNEL
+http://mdr-284321-0.cast.mdr.de/mdr/284321/0/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MDR JUMP ROCKCHANNEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",MDR JUMP ROCKCHANNEL
+http://mdr-284321-1.cast.mdr.de/mdr/284321/1/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MDR SPUTNIK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",MDR SPUTNIK
+http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MDR SPUTNIK POPKULT" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",MDR SPUTNIK POPKULT
+http://mdr-284331-4.cast.mdr.de/mdr/284331/4/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MDR SPUTNIK SOUNDCHECK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",MDR SPUTNIK SOUNDCHECK
+http://mdr-284331-6.cast.mdr.de/mdr/284331/6/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MDR SACHSEN-ANHALT" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",MDR SACHSEN-ANHALT
+http://mdr-284290-0.cast.mdr.de/mdr/284290/0/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="radio SAW" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",radio SAW
+http://saw-de-hz-fal-stream07-cluster01.radiohost.de/saw_128
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="radio SAW Neuheiten" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",radio SAW Neuheiten
+http://saw-de-hz-fal-stream02-cluster01.radiohost.de/saw-neuheiten_128
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HITRADIO RTL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",HITRADIO RTL
+http://streaming.hitradio-rtl.de/hitradio-rtl_simulcast__leipzig_128k_mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Leipzig" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",Radio Leipzig
+http://streaming.radioleipzig.de/radio-leipzig_simulcast_128k_mp3
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="89.0 RTL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",89.0 RTL
+http://fhhalle.hoerradar.de/890rtl-live-mp3-hq
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Brocken" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",Radio Brocken
+http://fhhalle.hoerradar.de/radiobrocken-live-mp3-hq
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio PSR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",Radio PSR
+http://regiocast.hoerradar.de/psr-live-mp3-hq
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio PSR Partymix" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",Radio PSR Partymix
+http://regiocast.hoerradar.de/psr-partymix-mp3-hq
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio PSR Chartbreaker" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",Radio PSR Chartbreaker
+http://regiocast.hoerradar.de/psr-chartbreaker-mp3-hq
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio PSR Sinnlos-Telefon" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",Radio PSR Sinnlos-Telefon
+http://regiocast.hoerradar.de/psr-sinnlostelefon-mp3-hq
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Corax" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Germany",Radio Corax
+http://streaming.fueralle.org:8000/corax.mp3

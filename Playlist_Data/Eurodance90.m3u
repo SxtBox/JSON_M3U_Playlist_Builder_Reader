@@ -1,0 +1,4 @@
+#EXTM3U Albdroid TV Streaming
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Albdroid PHP Streaming" tvg-logo="https://eurodance90.fr/img/logos/logo.png" group-title="Top Eurodance Radios",Eurodance 90
+https://stream-eurodance90.fr/radio/8000/128.mp3

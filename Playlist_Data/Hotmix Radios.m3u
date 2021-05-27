@@ -1,0 +1,58 @@
+#EXTM3U Albdroid TV Streaming Hotmix Radios (Wednesday, 26 May 2021 - 17:08:34)
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Dance.jpg" group-title="Hotmix Radios",Hotmixradio Dance
+http://streaming.hotmixradio.fr/hotmixradio-dance-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Hits.jpg" group-title="Hotmix Radios",Hotmixradio Hits
+http://streaming.hotmixradio.fr/hotmixradio-hits-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Vip.jpg" group-title="Hotmix Radios",Hotmixradio VIP
+http://streaming.hotmixradio.fr/hotmixradio-vip-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Golds.jpg" group-title="Hotmix Radios",Hotmixradio Golds
+http://streaming.hotmixradio.fr/hotmixradio-golds-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Hot.jpg" group-title="Hotmix Radios",Hotmixradio Hot
+http://streaming.hotmixradio.fr/hotmixradio-hot-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Hiphop.jpg" group-title="Hotmix Radios",Hotmixradio Hip Hop
+http://streaming.hotmixradio.fr/hotmixradio-hiphop-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-80.jpg" group-title="Hotmix Radios",Hotmixradio 80s
+http://streaming.hotmixradio.fr/hotmixradio-80-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-90.jpg" group-title="Hotmix Radios",Hotmixradio 90s
+http://streaming.hotmixradio.fr/hotmixradio-90-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-2000.jpg" group-title="Hotmix Radios",Hotmixradio 2000
+http://streaming.hotmixradio.fr/hotmixradio-2k-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Fiesta.jpg" group-title="Hotmix Radios",Hotmixradio Fiesta
+http://streaming.hotmixradio.fr/hotmixradio-fiesta-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Funky.jpg" group-title="Hotmix Radios",Hotmixradio Funky
+http://streaming.hotmixradio.fr/hotmixradio-funky-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Frenchy.jpg" group-title="Hotmix Radios",Hotmixradio Frenchy
+http://streaming.hotmixradio.fr/hotmixradio-frenchy-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Sunny.jpg" group-title="Hotmix Radios",Hotmixradio Sunny
+http://streaming.hotmixradio.fr/hotmixradio-sunny-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-New.jpg" group-title="Hotmix Radios",Hotmixradio New
+http://streaming.hotmixradio.fr/hotmixradio-new-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Infos.jpg" group-title="Hotmix Radios",Hotmixradio infos
+http://streaming.hotmixradio.fr/hotmixradio-infos-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Game.jpg" group-title="Hotmix Radios",Hotmixradio Game
+http://streaming.hotmixradio.fr/hotmixradio-game-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Rock.jpg" group-title="Hotmix Radios",Hotmixradio Rock
+http://streaming.hotmixradio.fr/hotmixradio-rock-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Metal.jpg" group-title="Hotmix Radios",Hotmixradio Metal
+http://streaming.hotmixradio.fr/hotmixradio-metal-128.mp3?newsession=Albdroid
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Hotmix Radios" tvg-logo="https://api2.hotmixradio.fr/images/logos/320/HOTMIXRADIO-Baby.jpg" group-title="Hotmix Radios",Hotmixradio Baby
+http://streaming.hotmixradio.fr/hotmixradio-baby-128.mp3?newsession=Albdroid

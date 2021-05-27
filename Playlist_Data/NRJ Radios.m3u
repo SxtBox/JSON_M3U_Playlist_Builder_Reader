@@ -1,0 +1,430 @@
+#EXTM3U Albdroid TV Streaming All NRJ Radios (Wednesday, 26 May 2021 - 17:09:30) #NRJ Addon https://addons.kodi.al/Radios #Scraping from http://www.nrj.fr
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_V3.png" group-title="NRJ Radios",NRJ
+https://scdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Hits.png" group-title="NRJ Radios",NRJ HITS
+https://scdn.nrjaudio.fm/adwz1/fr/30043/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_teletravail.png" group-title="NRJ Radios",NRJ TELETRAVAIL
+https://scdn.nrjaudio.fm/adwz1/fr/57161/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_summer_hits_preview_hits.png" group-title="NRJ Radios",NRJ SUMMER HITS PREVIEW
+https://scdn.nrjaudio.fm/adwz1/fr/57701/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_en_terrasse_hits_New.png" group-title="NRJ Radios",NRJ EN TERRASSE
+https://scdn.nrjaudio.fm/adwz1/fr/57709/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_logo_nrj_dance_1591132816320.png" group-title="NRJ Radios",NRJ DANCE
+https://scdn.nrjaudio.fm/adwz1/fr/30013/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_logo_nrj_hits_du_printemps_1615970419311.png" group-title="NRJ Radios",NRJ LES HITS DU PRINTEMPS
+https://scdn.nrjaudio.fm/adwz1/fr/57293/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_logo_nrj_wr_latino2_SOLEIL.png" group-title="NRJ Radios",NRJ LATINO
+https://scdn.nrjaudio.fm/adwz1/fr/30077/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_Top10_du_26_05.png" group-title="NRJ Radios",NRJ LE TOP 10 DU MERCREDI 26 MAI
+https://scdn.nrjaudio.fm/adwz1/fr/56657/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_lalala_1618518096582.png" group-title="NRJ Radios",NRJ LALALA
+https://scdn.nrjaudio.fm/adwz1/fr/57699/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_prince_a_ny-2-1_1614848694937.png" group-title="NRJ Radios",NRJ RETOUR EN 1988
+https://scdn.nrjaudio.fm/adwz1/fr/57635/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Made_in_France_2.png" group-title="NRJ Radios",NRJ MADE IN FRANCE
+https://scdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_la_playlist_des_vacances.png" group-title="NRJ Radios",NRJ LA PLAYLIST DES VACANCES
+https://scdn.nrjaudio.fm/adwz1/fr/56887/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Rock_Nc.png" group-title="NRJ Radios",NRJ ROCK
+https://scdn.nrjaudio.fm/adwz1/fr/30055/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_La_Playlist_2000.png" group-title="NRJ Radios",NRJ LA PLAYLIST 2000'S
+https://scdn.nrjaudio.fm/adwz1/fr/55275/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_logo_nrj_hit_of_the_day_1613482413451.png" group-title="NRJ Radios",NRJ HIT OF THE DAY
+https://scdn.nrjaudio.fm/adwz1/fr/31109/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_latino_queens_1614809951670.png" group-title="NRJ Radios",NRJ LATINO QUEENS
+https://scdn.nrjaudio.fm/adwz1/fr/57649/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_logo_nrj_top_100_de_la_decennie_1613728344435.png" group-title="NRJ Radios",NRJ TOP 100 DE LA DECENNIE
+https://scdn.nrjaudio.fm/adwz1/fr/57084/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_la_folie_hits.png" group-title="NRJ Radios",NRJ DE FOLIE
+https://scdn.nrjaudio.fm/adwz1/fr/55498/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_1-nrj_rd__nma2020_1603626727473.png" group-title="NRJ Radios",NRJ MUSIC AWARDS 2020
+https://scdn.nrjaudio.fm/adwz1/fr/57322/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Pure_Hits_Only_V2.png" group-title="NRJ Radios",NRJ PURE HITS ONLY
+https://scdn.nrjaudio.fm/adwz1/fr/31503/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_top100_2020_1608146755272.png" group-title="NRJ Radios",NRJ TOP 100 2020
+https://scdn.nrjaudio.fm/adwz1/fr/57526/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_couvre-feu_hits.png" group-title="NRJ Radios",NRJ COUVRE FEU
+https://scdn.nrjaudio.fm/adwz1/fr/57302/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_logo_nma_gagnants2020-2_hits.png" group-title="NRJ Radios",NRJ LES GAGNANTS DES NRJ MUSIC AWARDS 2020
+https://scdn.nrjaudio.fm/adwz1/fr/31373/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_futurs_hits_2021_1606823800117.png" group-title="NRJ Radios",NRJ FUTURS HITS 2021
+https://scdn.nrjaudio.fm/adwz1/fr/56732/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_rap_2000-2_rap.png" group-title="NRJ Radios",NRJ RAP 2000
+https://scdn.nrjaudio.fm/adwz1/fr/57451/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_New_Hits_Friday_du2105.png" group-title="NRJ Radios",NRJ NEW HITS FRIDAY
+https://scdn.nrjaudio.fm/adwz1/fr/56230/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_africa1_1614809928912.png" group-title="NRJ Radios",NRJ AFRICA
+https://scdn.nrjaudio.fm/adwz1/fr/30145/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_Rap.png" group-title="NRJ Radios",NRJ RAP
+https://scdn.nrjaudio.fm/adwz1/fr/56702/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Nouveautes.png" group-title="NRJ Radios",NRJ NOUVEAUTES
+https://scdn.nrjaudio.fm/adwz1/fr/30023/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_country_1606775600401.png" group-title="NRJ Radios",NRJ COUNTRY
+https://scdn.nrjaudio.fm/adwz1/fr/57487/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_bestof_nma_1608148466656.png" group-title="NRJ Radios",NRJ BEST OF NMA
+https://scdn.nrjaudio.fm/adwz1/fr/57525/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_logo_nrj_scene_francaise_1592063155438.png" group-title="NRJ Radios",NRJ SCENE FRANCAISE
+https://scdn.nrjaudio.fm/adwz1/fr/57236/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_logo_nrj_hits_ete_2020_ALL.png" group-title="NRJ Radios",NRJ LES HITS DE L'ETE 2020
+https://scdn.nrjaudio.fm/adwz1/fr/57227/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_house_party1_hits.png" group-title="NRJ Radios",NRJ HOUSE PARTY
+https://scdn.nrjaudio.fm/adwz1/fr/57249/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_Hits_de_tous_vos_etes.png" group-title="NRJ Radios",NRJ LES HITS DE TOUS VOS ETES
+https://scdn.nrjaudio.fm/adwz1/fr/56646/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_Hits_80.png" group-title="NRJ Radios",NRJ HITS 80'
+https://scdn.nrjaudio.fm/adwz1/fr/55548/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_Disney_Hits.png" group-title="NRJ Radios",NRJ DISNEY HITS
+https://scdn.nrjaudio.fm/adwz1/fr/56896/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_Hits_Qui_Font_Danser.png" group-title="NRJ Radios",NRJ LES HITS QUI FONT DANSER
+https://scdn.nrjaudio.fm/adwz1/fr/56902/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Discover_2.png" group-title="NRJ Radios",NRJ DISCOVER
+https://scdn.nrjaudio.fm/adwz1/fr/30137/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Chill-ok.png" group-title="NRJ Radios",NRJ CHILL
+https://scdn.nrjaudio.fm/adwz1/fr/55530/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_1_logo_nrj_reggaeton_ALL.png" group-title="NRJ Radios",NRJ REGGAETON
+https://scdn.nrjaudio.fm/adwz1/fr/31023/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_WAZE.png" group-title="NRJ Radios",NRJ WAZE
+https://scdn.nrjaudio.fm/audio1/fr/56897/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_Le_Hit_Youtube.png" group-title="NRJ Radios",NRJ LE HIT YOUTUBE
+https://scdn.nrjaudio.fm/audio1/fr/31087/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_US_Top_40_2.png" group-title="NRJ Radios",NRJ US TOP 40
+https://scdn.nrjaudio.fm/adwz1/fr/31513/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_Playlist_100_Hits_Francais.png" group-title="NRJ Radios",NRJ LA PLAYLIST 100% HITS FRANCAIS
+https://scdn.nrjaudio.fm/adwz1/fr/56699/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_Kitch_80.png" group-title="NRJ Radios",NRJ KITCH 80
+https://scdn.nrjaudio.fm/adwz1/fr/56777/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Hits_90_2.png" group-title="NRJ Radios",NRJ HITS 90
+https://scdn.nrjaudio.fm/adwz1/fr/55274/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_EuroHot_30.png" group-title="NRJ Radios",NRJ EUROHOT 30
+https://scdn.nrjaudio.fm/adwz1/fr/31407/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Pop_RnB_Dance.png" group-title="NRJ Radios",NRJ POP RNB DANCE
+https://scdn.nrjaudio.fm/adwz1/fr/31489/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_All_Hits_All_Styles_2.png" group-title="NRJ Radios",NRJ ALL HITS ALL STYLES
+https://scdn.nrjaudio.fm/adwz1/fr/31149/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Nouveaute_Francaises.png" group-title="NRJ Radios",NRJ NOUVEAUTES FRANCAISES
+https://scdn.nrjaudio.fm/adwz1/fr/55656/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_French_Hits.png" group-title="NRJ Radios",NRJ FRENCH HITS
+https://scdn.nrjaudio.fm/adwz1/fr/30037/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_variete_francaise.png" group-title="NRJ Radios",NRJ VARIETE FRANCAISE
+https://scdn.nrjaudio.fm/adwz1/fr/55684/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Acoustic_Hits.png" group-title="NRJ Radios",NRJ ACOUSTIC HITS
+https://scdn.nrjaudio.fm/adwz1/fr/30157/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_La_Playlist_2016.png" group-title="NRJ Radios",NRJ LA PLAYLIST 2016
+https://scdn.nrjaudio.fm/adwz1/fr/55559/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_La_Playlist_2015.png" group-title="NRJ Radios",NRJ LA PLAYLIST 2015
+https://scdn.nrjaudio.fm/adwz1/fr/55497/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_La_Playlist_2014.png" group-title="NRJ Radios",NRJ LA PLAYLIST 2014
+https://scdn.nrjaudio.fm/adwz1/fr/55584/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_La_Playlist_2013.png" group-title="NRJ Radios",NRJ LA PLAYLIST 2013
+https://scdn.nrjaudio.fm/adwz1/fr/55582/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_La_Playlist_2012.png" group-title="NRJ Radios",NRJ LA PLAYLIST 2012
+https://scdn.nrjaudio.fm/adwz1/fr/55580/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_La_Playlist_2011.png" group-title="NRJ Radios",NRJ LA PLAYLIST 2011
+https://scdn.nrjaudio.fm/adwz1/fr/55579/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_La_Playlist_2010.png" group-title="NRJ Radios",NRJ LA PLAYLIST 2010
+https://scdn.nrjaudio.fm/adwz1/fr/55535/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Happy_Hits.png" group-title="NRJ Radios",NRJ HAPPY HITS
+https://scdn.nrjaudio.fm/adwz1/fr/55127/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Party_Hits.png" group-title="NRJ Radios",NRJ PARTY HITS
+https://scdn.nrjaudio.fm/adwz1/fr/30063/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_logo_nrj_wr_sexy_red.png" group-title="NRJ Radios",NRJ SEXY
+https://scdn.nrjaudio.fm/adwz1/fr/55126/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Best_Hits_Ever.png" group-title="NRJ Radios",NRJ BEST HITS EVER
+https://scdn.nrjaudio.fm/adwz1/fr/31251/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_logo_nrj_green.png" group-title="NRJ Radios",NRJ GREEN
+https://scdn.nrjaudio.fm/adwz1/fr/57273/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_No_Repeat_2.png" group-title="NRJ Radios",NRJ NO REPEAT
+https://scdn.nrjaudio.fm/adwz1/fr/31005/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_revelation_internationale_OK.png" group-title="NRJ Radios",NRJ NMA REVELATION INTERNATIONALE
+https://scdn.nrjaudio.fm/adwz1/fr/56985/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_1-nrj_rd_revelation_francophoneriffx_1603793715341.png" group-title="NRJ Radios",NRJ NMA REVELATION FRANCOPHONE
+https://scdn.nrjaudio.fm/adwz1/fr/56984/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_groupe-duo-international_OK.png" group-title="NRJ Radios",NRJ NMA GROUPE - DUO INTERNATIONAL
+https://scdn.nrjaudio.fm/adwz1/fr/56987/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_groupe-duo-francophone_OK.png" group-title="NRJ Radios",NRJ NMA GROUPE - DUO FRANCOPHONE
+https://scdn.nrjaudio.fm/adwz1/fr/56986/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NMA_DJAnnee.png" group-title="NRJ Radios",NRJ NMA DJ DE L'ANNEE
+https://scdn.nrjaudio.fm/adwz1/fr/56993/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_clip_1603728500858.png" group-title="NRJ Radios",NRJ NMA CLIP DE L'ANNEE
+https://scdn.nrjaudio.fm/adwz1/fr/56995/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_chanson_internationale_OK.png" group-title="NRJ Radios",NRJ NMA CHANSON INTERNATIONALE
+https://scdn.nrjaudio.fm/adwz1/fr/56992/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_chanson_francophone_OK.png" group-title="NRJ Radios",NRJ NMA CHANSON FRANCAISE
+https://scdn.nrjaudio.fm/adwz1/fr/56994/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_1-nrj_rd_artiste_masculin_international_1603721702069.png" group-title="NRJ Radios",NRJ NMA ARTISTE MASCULIN INTERNATIONAL
+https://scdn.nrjaudio.fm/adwz1/fr/56989/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_1-nrj_rd_artistemasculin_francophone_1603721588976.png" group-title="NRJ Radios",NRJ NMA ARTISTE MASCULIN FRANCOPHONE
+https://scdn.nrjaudio.fm/adwz1/fr/56988/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_1-nrj_rd_artiste_feminine_internationale_1603721507866.png" group-title="NRJ Radios",NRJ NMA ARTISTE FEMININE INTERNATIONALE
+https://scdn.nrjaudio.fm/adwz1/fr/56991/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_1-nrj_rd_artiste_feminine_francophone_1603721424202.png" group-title="NRJ Radios",NRJ NMA ARTISTE FEMININE FRANCOPHONE
+https://scdn.nrjaudio.fm/adwz1/fr/56990/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_1-nrj_rd_collaborationinter_1603626698588.png" group-title="NRJ Radios",NRJ NMA COLLABORATION INTERNATIONALE DE L'ANNEE
+https://scdn.nrjaudio.fm/adwz1/fr/57324/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_1-nrj_rd_collaborationfr_1603626647839.png" group-title="NRJ Radios",NRJ NMA COLLABORATION FRANCOPHONE DE L'ANNEE
+https://scdn.nrjaudio.fm/adwz1/fr/57323/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Extravadance_2.png" group-title="NRJ Radios",NRJ EXTRAVADANCE
+https://scdn.nrjaudio.fm/adwz1/fr/30027/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_Techno_Story.png" group-title="NRJ Radios",NRJ TECHNO STORY
+https://scdn.nrjaudio.fm/adwz1/fr/56429/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Dance_Hits2.png" group-title="NRJ Radios",NRJ DANCE HITS
+https://scdn.nrjaudio.fm/adwz1/fr/31131/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_Electro.png" group-title="NRJ Radios",NRJ ELECTRO
+https://scdn.nrjaudio.fm/adwz1/fr/55135/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_betterdays_1601026540716.png" group-title="NRJ Radios",NRJ BETTER DAYS
+https://scdn.nrjaudio.fm/adwz1/fr/56888/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_Hardstyle.png" group-title="NRJ Radios",NRJ HARDSTYLE
+https://scdn.nrjaudio.fm/adwz1/fr/56708/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Hits_Remix2.png" group-title="NRJ Radios",NRJ HITS REMIX
+https://scdn.nrjaudio.fm/adwz1/fr/31019/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Club_Hits2.png" group-title="NRJ Radios",NRJ CLUB HITS
+https://scdn.nrjaudio.fm/adwz1/fr/31073/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Clubbin.png" group-title="NRJ Radios",NRJ CLUBBIN
+https://scdn.nrjaudio.fm/adwz1/fr/30017/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Edm.png" group-title="NRJ Radios",NRJ EDM
+https://scdn.nrjaudio.fm/adwz1/fr/31419/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Deep_House.png" group-title="NRJ Radios",NRJ DEEP HOUSE
+https://scdn.nrjaudio.fm/adwz1/fr/31437/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Dance_90.png" group-title="NRJ Radios",NRJ DANCE 90
+https://scdn.nrjaudio.fm/adwz1/fr/31099/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_remember_that.png" group-title="NRJ Radios",NRJ REMEMBER THAT
+https://scdn.nrjaudio.fm/adwz1/fr/56388/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Latino_Hits_Nc.png" group-title="NRJ Radios",NRJ LATINO HITS
+https://scdn.nrjaudio.fm/adwz1/fr/31409/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_caliente.png" group-title="NRJ Radios",NRJ CALIENTE
+https://scdn.nrjaudio.fm/adwz1/fr/56329/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Fiesta_Latina_Nc.png" group-title="NRJ Radios",NRJ FIESTA LATINA
+https://scdn.nrjaudio.fm/adwz1/fr/55210/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Fiesta_Nc.png" group-title="NRJ Radios",NRJ FIESTA
+https://scdn.nrjaudio.fm/adwz1/fr/31247/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Kizomba_Nc.png" group-title="NRJ Radios",NRJ KIZOMBA
+https://scdn.nrjaudio.fm/adwz1/fr/31523/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Zouk_Nc.png" group-title="NRJ Radios",NRJ ZOUK
+https://scdn.nrjaudio.fm/adwz1/fr/30085/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_Reggae_2.png" group-title="NRJ Radios",NRJ REGGAE
+https://scdn.nrjaudio.fm/adwz1/fr/30075/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Rai_Nc.png" group-title="NRJ Radios",NRJ RAI
+https://scdn.nrjaudio.fm/adwz1/fr/30133/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Oriental_Nc.png" group-title="NRJ Radios",NRJ ORIENTAL
+https://scdn.nrjaudio.fm/adwz1/fr/31079/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_Pop_Urbaine.png" group-title="NRJ Radios",NRJ POP URBAINE
+https://scdn.nrjaudio.fm/adwz1/fr/55764/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_Hit_Youtube_RapFr.png" group-title="NRJ Radios",NRJ LE HIT YOUTUBE RAP FR
+https://scdn.nrjaudio.fm/adwz1/fr/57102/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Urban_Hits_Nc.png" group-title="NRJ Radios",NRJ URBAN HITS
+https://scdn.nrjaudio.fm/adwz1/fr/30099/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Rap_US_Nc.png" group-title="NRJ Radios",NRJ RAP US
+https://scdn.nrjaudio.fm/adwz1/fr/30061/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Fresh_rap_fr_Nc.png" group-title="NRJ Radios",NRJ FRESH RAP FR
+https://scdn.nrjaudio.fm/adwz1/fr/31555/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Rap_Fr.png" group-title="NRJ Radios",NRJ RAP FR
+https://scdn.nrjaudio.fm/adwz1/fr/30059/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Gangsta_Rap_Nc.png" group-title="NRJ Radios",NRJ GANGSTA RAP
+https://scdn.nrjaudio.fm/adwz1/fr/31081/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_RnB_Nc.png" group-title="NRJ Radios",NRJ RNB
+https://scdn.nrjaudio.fm/adwz1/fr/30011/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_RnB_FR_Nc.png" group-title="NRJ Radios",NRJ RNB FR
+https://scdn.nrjaudio.fm/adwz1/fr/30171/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Hip_Hop_RnB_Hits_Nc.png" group-title="NRJ Radios",NRJ HIP HOP RNB HITS
+https://scdn.nrjaudio.fm/adwz1/fr/31559/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Classic_Rap_US_Nc.png" group-title="NRJ Radios",NRJ CLASSIC RAP US
+https://scdn.nrjaudio.fm/adwz1/fr/31093/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Classic_Rap_FR_Nc.png" group-title="NRJ Radios",NRJ CLASSIC RAP FR
+https://scdn.nrjaudio.fm/adwz1/fr/55189/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Classic_RnB_Nc.png" group-title="NRJ Radios",NRJ CLASSIC RNB
+https://scdn.nrjaudio.fm/adwz1/fr/31095/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_Funky.png" group-title="NRJ Radios",NRJ FUNKY
+https://scdn.nrjaudio.fm/adwz1/fr/31035/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_PopRock.png" group-title="NRJ Radios",NRJ POP ROCK
+https://scdn.nrjaudio.fm/adwz1/fr/56720/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Pop_Nc.png" group-title="NRJ Radios",NRJ POP
+https://scdn.nrjaudio.fm/adwz1/fr/30053/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Classic_Rock_Nc.png" group-title="NRJ Radios",NRJ CLASSIC ROCK
+https://scdn.nrjaudio.fm/adwz1/fr/31097/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Metal_Nc.png" group-title="NRJ Radios",NRJ METAL
+https://scdn.nrjaudio.fm/adwz1/fr/30079/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo-NRJ-Fitness-Cardio.png" group-title="NRJ Radios",NRJ FITNESS CARDIO
+https://scdn.nrjaudio.fm/adwz1/fr/56808/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Fitness.png" group-title="NRJ Radios",NRJ FITNESS
+https://scdn.nrjaudio.fm/adwz1/fr/30007/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Hits_For_Running2.png" group-title="NRJ Radios",NRJ HITS FOR RUNNING
+https://scdn.nrjaudio.fm/adwz1/fr/30057/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Pour_Le_Sport.png" group-title="NRJ Radios",NRJ POUR LE SPORT
+https://scdn.nrjaudio.fm/adwz1/fr/55513/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_Zen.png" group-title="NRJ Radios",NRJ ZEN
+https://scdn.nrjaudio.fm/adwz1/fr/56723/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Lounge_Nc.png" group-title="NRJ Radios",NRJ LOUNGE
+https://scdn.nrjaudio.fm/adwz1/fr/30049/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_At_Work_Nc.png" group-title="NRJ Radios",NRJ AT WORK
+https://scdn.nrjaudio.fm/adwz1/fr/30033/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_At_Home.png" group-title="NRJ Radios",NRJ AT HOME
+https://scdn.nrjaudio.fm/adwz1/fr/31011/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Relax_Nc.png" group-title="NRJ Radios",NRJ RELAX
+https://scdn.nrjaudio.fm/adwz1/fr/31161/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Love_Nc.png" group-title="NRJ Radios",NRJ LOVE
+https://scdn.nrjaudio.fm/adwz1/fr/30081/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Romantic_Nc.png" group-title="NRJ Radios",NRJ ROMANTIC
+https://scdn.nrjaudio.fm/adwz1/fr/30191/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Sentimental_Nc.png" group-title="NRJ Radios",NRJ SENTIMENTAL
+https://scdn.nrjaudio.fm/adwz1/fr/31277/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Good_Night_Nc.png" group-title="NRJ Radios",NRJ GOOD NIGHT
+https://scdn.nrjaudio.fm/adwz1/fr/31051/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_logo_nrj_wr_manu_le_6-10_1597850539621.png" group-title="NRJ Radios",NRJ MANU LE 6-10
+https://scdn.nrjaudio.fm/adwz1/fr/30103/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_CCauet.png" group-title="NRJ Radios",NRJ C'CAUET
+https://scdn.nrjaudio.fm/adwz1/fr/30097/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/_NRJ_David_Guetta.png" group-title="NRJ Radios",NRJ DAVID GUETTA
+https://scdn.nrjaudio.fm/audio1/fr/31053/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Jul.png" group-title="NRJ Radios",NRJ JUL
+https://scdn.nrjaudio.fm/audio1/fr/31495/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Soprano.png" group-title="NRJ Radios",NRJ SOPRANO
+https://scdn.nrjaudio.fm/audio1/fr/31473/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Maitre_Gims.png" group-title="NRJ Radios",NRJ MAITRE GIMS
+https://scdn.nrjaudio.fm/audio1/fr/31297/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_logo_NRJ_wr_BTS.png" group-title="NRJ Radios",NRJ BTS
+https://scdn.nrjaudio.fm/audio1/fr/56365/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRJ" tvg-logo="http://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_1_nrj_rd_mylene-farmer_artistes.png" group-title="NRJ Radios",NRJ MYLENE FARMER
+https://scdn.nrjaudio.fm/audio1/fr/57452/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1

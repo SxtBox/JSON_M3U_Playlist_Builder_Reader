@@ -1,0 +1,31 @@
+#EXTM3U Albdroid TV Streaming #Deejay Radios Italia (Wednesday, 26 May 2021 - 22:43:40)
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Italian Radios" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2021/05/franco_battiato_webradio.png" group-title="Italian Radios",Franco Battiato
+https://deejay-wr-10-lh.akamaized.net/i/WebRadio10_1@315987/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Italian Radios" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_deejay_on_the_road.png" group-title="Italian Radios",Deejay On The Road
+https://deejay-wr-09-lh.akamaized.net/i/WebRadio9_1@315986/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Italian Radios" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2016/03/webradio_deejay_gasolina.png" group-title="Italian Radios",Deejay Gasolina
+https://deejay-wr-08-lh.akamaized.net/i/WebRadio8_1@315985/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Italian Radios" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_deejay_suona_italia.png" group-title="Italian Radios",Deejay Suona Italia
+https://deejay-wr-07-lh.akamaized.net/i/WebRadio7_1@315984/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Italian Radios" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_30_songs.png" group-title="Italian Radios",Deejay 30 Songs
+https://deejay-wr-06-lh.akamaized.net/i/WebRadio6_1@315983/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Italian Radios" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_linus_wfm.png" group-title="Italian Radios",Deejay WFM
+https://deejay-wr-05-lh.akamaized.net/i/WebRadio5_1@315981/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Italian Radios" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_one_two.png" group-title="Italian Radios",Deejay One Two One Two
+https://deejay-wr-04-lh.akamaized.net/i/WebRadio4_1@315980/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Italian Radios" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_tropical.png" group-title="Italian Radios",Deejay Tropical Pizza
+https://deejay-wr-03-lh.akamaized.net/i/WebRadio3_1@315979/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Italian Radios" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_deejay_time.png" group-title="Italian Radios",Deejay Time
+https://deejay-wr-02-lh.akamaized.net/i/WebRadio2_1@315978/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Italian Radios" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2017/07/deejay_80.png" group-title="Italian Radios",Deejay 80
+https://deejay-wr-01-lh.akamaized.net/i/WebRadio1_1@315977/master.m3u8

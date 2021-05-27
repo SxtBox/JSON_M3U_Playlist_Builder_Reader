@@ -1,0 +1,1645 @@
+#EXTM3U Albdroid TV Streaming #PHP Streaming Scraper (Wednesday, 26 May 2021 - 22:48:23)
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="INTRO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",INTRO
+https://od.lk/s/MTlfMjI2Njg2OTBf/intro.mp4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="REDBULL TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TIME SQUARE WEBCAM" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TIME SQUARE WEBCAM
+https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ALKASS 1 AR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ALKASS 1 AR
+http://alkasmsl4.akamaized.net/hls/live/2003123/alkassone1/master570.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ALL SPORTS ES" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ALL SPORTS ES
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ASPOR TR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ASPOR TR
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ATG SPORT SWE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ATG SPORT SWE
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CCX SPORTS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CCX SPORTS
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DSPORT" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DSPORT
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DUBAI RACING EN / AR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DUBAI RACING EN / AR
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="EDGE SPORT" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",EDGE SPORT
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ESPN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ESPN
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ESPN 2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ESPN 2
+http://m3ulink.com:7899/live/enzo.rreiss1-restream/kXCzhzQZ/189.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="EUROSPORT" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",EUROSPORT
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FIGHTBOX" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FIGHTBOX
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FIGHTSPORTS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FIGHTSPORTS
+http://210.210.155.35/session/5eef8c7c-db91-11e9-9394-b743b0a1ab1f/uq2663/h/h05/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOOTBALL TV RU" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOOTBALL TV RU
+http://ott-cdn.ucom.am/s41/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOX SPORTS 1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOX SPORTS 1
+http://m3ulink.com:7899/live/enzo.rreiss1-restream/kXCzhzQZ/7146.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOX SPORTS NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOX SPORTS NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="GONE FISHING" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",GONE FISHING
+https://central.dashstreams.net/onestudio/gonefishing/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="GONE HUNTING" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",GONE HUNTING
+https://central.dashstreams.net/onestudio/hunting/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HUNT TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",HUNT TV
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="JORDAN SPORTS AR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",JORDAN SPORTS AR
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w587021344.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="JTBC GOLF JP" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",JTBC GOLF JP
+http://122.129.115.21:1935/edgedol/_definst_/tao129/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MAV TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MAV TV
+http://185.246.209.109:8080/MAV_TV/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MLB NETWORK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MSNBC GOLF" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MSNBC GOLF
+https://ssx1.herokuapp.com/http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NBA NETWORK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NBA NETWORK
+http://peer4.savitar.tv/NBA/myStream/chunks.m3u8?nimblesessionid=3560815&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE5IDg6MTQ6NDkgQU0maGFzaF92YWx1ZT1GNlpHQ2Z5OVB0aEFlUENrWHd4Y3JnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NBC SPORTS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NBC SPORTS
+http://peer4.savitar.tv/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE5IDEwOjEwOjQ5IEFNJmhhc2hfdmFsdWU9TFhjSjRONkNHVjN3YTc0dHdYZDlRZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NFL NETWORK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NFL NETWORK
+http://peer3.savitar.tv/NFL/myStream/chunks.m3u8?nimblesessionid=1531172&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE5IDg6MTY6MjYgQU0maGFzaF92YWx1ZT1oWHE0dC80U2JXcGdnR0lTdE9peHFnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NHL NETWORK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NHL NETWORK
+//m3ulink.com:7899/live/enzo.rreiss1-restream/kXCzhzQZ/3474.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="OLYMPIC CHANNEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",OLYMPIC CHANNEL
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="PRO-X AR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",PRO-X AR
+https://vid.hls.protv.ro/proxhdn/proxhd_high/index.m3u8?1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RACING.COM" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="REAL MADRID TV ES" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",REAL MADRID TV ES
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RED BULL TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="REV`N" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",REV`N
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SETANTA 1 RU" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SETANTA 1 RU
+http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SHARJAH SPORT AR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SHARJAH SPORT AR
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="STADIUM" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SWISS SPORTS FR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SWISS SPORTS FR
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TENNIS PLUS 1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TENNIS PLUS 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="THE TENNIS CHANNEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",THE TENNIS CHANNEL
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TSN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TSN
+http://m3ulink.com:7899/live/enzo.rreiss1-restream/kXCzhzQZ/92.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TJK TV TR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TJK TV TR
+http://tjktv.ercdn.net/tjktv.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WOSN SPORT" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",WOSN SPORT
+http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WWE NETWORK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",WWE NETWORK
+http://peer2.savitar.tv/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE5IDg6MDg6MjEgQU0maGFzaF92YWx1ZT1NQnE0YTQxWmNEUHJ1QkFEc2MreVhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="XCORPS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",XCORPS
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ABC AUSTRALIA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ABC AUSTRALIA
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ABC NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ALEX BERLIN NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ALEX BERLIN NEWS
+https://alex-net.rosebud-media.de/bounce/alexlivetv20.smil/chunklist_b4192000_slGER.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ALJAZEERA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ALJAZEERA
+https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ARIRANG" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ARIRANG
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ARISE NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ARISE NEWS
+https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SD/chunklist.m3u8?
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="AUSTRALIA CHANNEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",AUSTRALIA CHANNEL
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BBC NEWS
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC TWO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BBC TWO
+https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC WORLD NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BBC WORLD NEWS
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BLOOMBERG" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BLOOMBERG
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BLOOMBERG EUROPE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BLOOMBERG EUROPE
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="C-SPAN LOW QUALITY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",C-SPAN LOW QUALITY
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="C-SPAN 2 LOW QUALITY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",C-SPAN 2 LOW QUALITY
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="C-SPAN 3 LOW QUALITY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",C-SPAN 3 LOW QUALITY
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CBN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CBN
+http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_2000_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CBSN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CBSN
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CHEDDAR BIG NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CHEDDAR BIG NEWS
+https://live.chdrstatic.com/cheddar/primary/1.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CGTN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CNA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CNA
+http://210.210.155.35/uq2663/h/h29/01.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CNBC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CNBC
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CNBC18" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CNBC18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CNN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CNN
+https://cvtv.cvalley.net/hls/CNNHD/CNNHD.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CPAC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DW" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DW
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="EBS ENGLISH" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",EBS ENGLISH
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ET NOW" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ET NOW
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="EURONEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",EURONEWS
+http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FIOS1 NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FIOS1 NEWS
+https://urtmpkal-f.akamaihd.net/i/1is35xshu_1@64997/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOX BUSINESS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOX BUSINESS
+http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOX NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOX NEWS
+http://peer2.savitar.tv/FoxNews/myStream/chunks.m3u8?nimblesessionid=40551648&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE5IDg6MjU6NDcgQU0maGFzaF92YWx1ZT1ERVN0S0JlMDJpVHh3bXRRUEw5Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOX NEWS RADIO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOX NEWS RADIO
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/index_2500_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FRANCE 24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="INFOWARS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",INFOWARS
+https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ISRAEL 24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ISRAEL 24
+https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KIRO 7 NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KIRO 7 NEWS
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MIRROR NOW" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MIRROR NOW
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MSNBC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MSNBC
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MSNBC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MSNBC
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NBC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NBC
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NDTV 24/7" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NDTV 24/7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NEWSMAX TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NEWSMAX TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NEWSNET" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NEWSNET
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NEWS X" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NEWS X
+https://streamidea.multitvsolution.in/live/NewsX-c/p4.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NEWSY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NEWSY
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NHK WORLD" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NHK WORLD
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTE NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RTE NEWS
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RT INTERNATIONAL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RT INTERNATIONAL
+http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SKY NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SKY NEWS
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SKY NEWS AUSTRALIA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SKY NEWS AUSTRALIA
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TELESUR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TELESUR
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TIMES NOW" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TIMES NOW
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TRT WORLD" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TRT WORLD
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="VOICE OF AMERICA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",VOICE OF AMERICA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WGN-TV NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",WGN-TV NEWS
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WGN9" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",WGN9
+https://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WHIO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",WHIO
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WION" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",WION
+http://pockettv.xyz/api/zee.m3u8?c=wion
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WPXI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",WPXI
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WSJ" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",WSJ
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WWSB" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",WWSB
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="AHS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",AHS
+http://m3ulink.com:7899/live/enzo.rreiss1-restream/kXCzhzQZ/7990.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CGTN DOCUMENTARY
+http://live.cgtn.com/cctv-d.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DOCUBOX" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DOCUBOX
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DOCURAMA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DOCURAMA
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ENGLISH CLUB" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ENGLISH CLUB
+http://ott-cdn.ucom.am/s37/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HISTORY HD" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",HISTORY HD
+http://livecdnh1.tvanywhere.ae/hls/h2/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HISTORY 2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",HISTORY 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KNOWLEDGE NETWORK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KNOWLEDGE NETWORK
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="LEOMINSTER TV EDUCATIONAL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",LEOMINSTER TV EDUCATIONAL
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NASA TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NASA TV
+http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NATIONAL GEO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NATIONAL GEO
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NATIONAL GEO PEOPLE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NATIONAL GEO PEOPLE
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NATIONAL GEO WILD" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NATIONAL GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="REELZ" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",REELZ
+http://185.246.209.109:8080/REELZ/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RT DOCUMENTARY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RT DOCUMENTARY
+http://ott-cdn.ucom.am/s93/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SMITHSONIAN CHANNEL
+http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TRAVEL CHANNEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TRAVEL CHANNEL
+http://vipottbpkstream.vip.hr/Content/vipnet-hls-vmx/Live/Channel(Travel_Channel)/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TRAVEL TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TRAVEL TV
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/1044/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="UN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",UN
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WEATHER CHANNEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",WEATHER CHANNEL
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Z LIVING" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Z LIVING
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="A3BIKINI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",A3BIKINI
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ADULT SWIM" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ADULT SWIM
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="AUTOMOTO.TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",AUTOMOTO.TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC ONE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BBC ONE
+https://bozztv.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BBC TWO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BBC TWO
+https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BEACH TV - 30A" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BEACH TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BOOMERANG" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BOOMERANG
+http://185.246.209.109:8080/BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BUZZR TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BUZZR TV
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CHALLENGE TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CHALLENGE TV
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-challenge/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DAVE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DAVE
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-dave/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ET LIVE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ET LIVE
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FAILARMY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FAILARMY
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FASHION TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FTV MIDNIGHT" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FTV MIDNIGHT
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CHEDDAR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CHEDDAR
+https://live.chdrstatic.com/cbn/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="GLOBAL FASHION CHANNEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",GLOBAL FASHION CHANNEL
+https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ITV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ITV
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ITV 2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ITV 2
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ITV 3" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ITV 3
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ITV 4" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ITV 4
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="JASMIN TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",JASMIN TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KIX" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KIX
+http://210.210.155.35/session/a1c246de-db91-11e9-89ac-8cd2a47a34e0/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MIAMI TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MIAMI TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MIAMI TV JENNY LIVE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MIAMI TV JENNY LIVE
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MIAMI TV LATINO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MIAMI TV LATINO
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MOBCRUSH" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MOBCRUSH
+https://ott.mobcrush.com/hls/0/ott.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MODELS INC." tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MODELS INC.
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="PICK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",PICK
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="POP TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",POP TV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RETRO TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RUNWAY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RUNWAY
+http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="STAR WORLD HD" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",STAR WORLD HD
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SUPERYACHT TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SUPERYACHT TV
+http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TASTEMADE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TASTEMADE
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TELESUR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TELESUR
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TMZ" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="VH1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",VH1
+https://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="&FLIX" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",&FLIX
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="&PRIVE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",&PRIVE
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="9XO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",9XO
+http://pockettv.xyz/api/zee.m3u8?c=9xo
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CON TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CON TV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FILMBOX" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FILMBOX
+https://spi-live.ercdn.net/spi/smil:fb_premium_pl_0.smil/.m3u8?st=36oBolZ1WJp3c7hBmV2S5Q&e=1569185355
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FILMRISE CLASSICS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FILMRISE CLASSICS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FILMRISE CRIME" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FILMRISE CRIME
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FILMRISE FAMILY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FILMRISE FAMILY
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FILMRISE MOVIES" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FILMRISE MOVIES
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOLK TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOLK TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HALLMARK CHANNEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",HALLMARK CHANNEL
+https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HALLMARK MOVIES" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",HALLMARK MOVIES
+https://crownmediaingesttest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="IFC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",IFC
+http://185.246.209.109:8080/IFC/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MOREMAX" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MOREMAX
+http://185.246.209.109:8080/MOREMAX/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MYTVTOGO CLASSIC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MYTVTOGO CLASSIC
+https://nimble.dashstreams.net/onestudio/classictv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MYTVTOGO HORRIFIED" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MYTVTOGO HORRIFIED
+https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MYTVTOGO MOVIES" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MYTVTOGO MOVIES
+https://nimble.dashstreams.net/onestudio/movee4u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MYTVTOGO SCIFI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MYTVTOGO SCIFI
+https://nimble.dashstreams.net/onestudio/SciFiTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MYTVTOGO WESTERN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MYTVTOGO WESTERN
+https://nimble.dashstreams.net/onestudio/western4u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RETRO TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RETRO TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SPYDAR TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SPYDAR TV
+http://nimble.dashstreams.net:80/onestudio/spydar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="STAR MOVIES AR SUB" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",STAR MOVIES AR SUB
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SUNDANCE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SUNDANCE
+http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SYFY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SYFY
+http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE5IDg6MzM6MDYgQU0maGFzaF92YWx1ZT1yZVpNZ0QyVjliWG9IMU8xaDJucnBBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="THE ASYLUM" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",THE ASYLUM
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="THE FILM DETECTIVE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",THE FILM DETECTIVE
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="THE WORKS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",THE WORKS
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="THRILL TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",THRILL TV
+http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TRUE MOVIES" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TRUE MOVIES
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WOW!TV ES" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",WOW!TV ES
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Z LIVING USA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Z LIVING USA
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CALIFORNIA MUSIC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CALIFORNIA MUSIC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COUNTRY NETWORK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COUNTRY NETWORK
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COMPANY TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COMPANY TV
+http://wma10.fluidstream.net/CompanyTV/_definst_:livestream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DANCESTAR TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DANCESTAR TV
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DELUXE MUSIC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DELUXE MUSIC
+http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DREAM TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DREAM TV
+http://live.netd.com.tr/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="IBIZA GLOBAL TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",IBIZA GLOBAL TV
+http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="INDIE WAVE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",INDIE WAVE
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MEZZO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MEZZO
+http://ott-cdn.ucom.am/s35/04.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MTV HITS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MTV HITS
+http://213.252.252.17/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MUSIC CHOICE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NRTJ TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NRTJ TV
+http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SILENCE TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SILENCE TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SPIRIT TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SPIRIT TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SUNBURN TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SUNBURN TV
+https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TRACE URBAN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TRACE URBAN
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TSTV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOXMIX" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOXMIX
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Q MUSIC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Q MUSIC
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="V2BEAT TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",V2BEAT TV
+http://139.59.166.48:8081/live/live3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DISNEY JUNIOR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DISNEY JUNIOR
+https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DUCK TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KIDZONE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KIDZONE
+http://213.252.252.17/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KNOWLEDGE KIDS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KNOWLEDGE KIDS
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NICK JR." tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NICK JR.
+http://185.246.209.109:8080/NICKJR/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="PBS KIDS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",PBS KIDS
+http://bks40002.gttstreamtv.com/kaceaeei5iaaaaaaakg1pxdaaaaaaaaaaaaed0ahvbretyqg/0000613/GlobalManifest.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="POP KIDS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",POP KIDS
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TCT KIDS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TCT KIDS
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TG4" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TIJI RU" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TIJI RU
+http://ott-cdn.ucom.am/s59/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Карапуз ТВ RU" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Карапуз ТВ RU
+http://online.karapuztv.ru/content/33418/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TIME SQUARE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TIME SQUARE
+https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TIME SQUARE 2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TIME SQUARE 2
+https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="OLD CITY, JERUSALEM" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",OLD CITY, JERUSALEM
+https://videos3.earthcam.com/fecnetwork/7949.flv/chunklist_w1952442559.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ABBEY ROAD" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ABBEY ROAD
+https://videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1096421812.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MAUI OCEAN CENTER" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MAUI OCEAN CENTER
+https://use01-smr03-relay.ozolio.com/hls-live/relay01.oqod0r.fd0.sm1.av2.at0.sh2.rt20679.rc0.basic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ST. LOUIS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ST. LOUIS
+https://videos3.earthcam.com/fecnetwork/meprd_garch.flv/chunklist_w298363827.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TORONTO SKYLINE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TORONTO SKYLINE
+https://videos3.earthcam.com/fecnetwork/9299.flv/chunklist_w288432429.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FLORIDA MARINA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FLORIDA MARINA
+https://videos3.earthcam.com/fecnetwork/8891.flv/chunklist_w2089501293.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NEPTUN FOUNTAIN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NEPTUN FOUNTAIN
+https://cdn-002.whatsupcams.com/hls/it_roma02.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ST. JULIAN'S" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ST. JULIAN'S
+https://hddn01.skylinewebcams.com/live.m3u8?a=du25rt37erlqqm9gtml4743e16
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CAIRO – THE PYRAMIDS OF GIZA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CAIRO – THE PYRAMIDS OF GIZA
+https://cdn-002.whatsupcams.com/hls/eg_cairo01.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="JELSA WEBCAM HVAR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",JELSA WEBCAM HVAR
+https://cdn-004.whatsupcams.com/hls/hr_jelsa02.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SHARKS CAM" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SHARKS CAM
+https://videos3.earthcam.com/fecnetwork/nabtrcam1.flv/chunklist_w2016950716.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="AL-SIRAT" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",AL-SIRAT
+https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="AL HURRA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",AL HURRA
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="AL IRAQIYA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",AL IRAQIYA
+http://cdn.catiacast.video/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="AL IRAQIYA NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",AL IRAQIYA NEWS
+http://cdn.catiacast.video/imn/5952fbfdf2bd7e80b7fd446206ec06f4.sdp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="AL JAZEERA DOCUMENTARY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",AL JAZEERA DOCUMENTARY
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ANDISHEH TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ANDISHEH TV
+http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CALTEX MUSIC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CALTEX MUSIC
+http://vid1.caltexmusic.com/hls/caltextv.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CHANNEL 20" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CHANNEL 20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HA-HINUHIT" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",HA-HINUHIT
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KAN 11" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KAN 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KANAL YEK TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KANAL YEK TV
+http://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KESHET NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KESHET NEWS
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2200_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KNESSET CHANNEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KNESSET CHANNEL
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KUWAIT TV 1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KUWAIT TV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KUWAIT TV 2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KUWAIT TV 2
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MAKAN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MAKAN
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RESHET 13" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RESHET 13
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RUDAW KURDI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RUDAW KURDI
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SIMAYE AZADI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SIMAYE AZADI
+https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SKY NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SKY NEWS
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="VOA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",VOA
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FRANCE 24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FRANCE 24
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="YESHUA CHAI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",YESHUA CHAI
+http://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ALSACE 20" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ALSACE 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BFM TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BFM TV
+https://bfmtvalive1-a.akamaihd.net/9824d8182ef7475abb5cb41f0d2b71d0/eu-central-1/876450610001/dd257bd6bff64eccb0a29b54cc705a07/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DICI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DICI
+http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FRANCE 24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FRANCE 24
+http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="GONG" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",GONG
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="I24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",I24
+https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="LA CHAINE NORMANDE TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",LA CHAINE NORMANDE TV
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SPORTS TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SPORTS TV
+https://blutv-beta.akamaized.net/sportstv/sportstv.smil/chunklist_b1596000_sltur.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="STADAFRIC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",STADAFRIC
+https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TEBEO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TEBEO
+https://live2.awedia.com/hls/tebeo_hi.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TV5 MONDE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TV5 MONDE
+https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TV7 COLMAR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TV7 COLMAR
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TVPI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CANAL 180" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CANAL 180
+http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CAÃ§AVISION" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CAÃ§AVISION
+https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KURIAKOS TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KURIAKOS TV
+http://195.22.11.11:1935/ktv/ktv1/chunklist_w1721226034.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTP" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RTP
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TVI24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TVI24
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/chunklist_w105810229.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TVM" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TVM
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="LA 1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",LA 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="LA VOZ 24H" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",LA VOZ 24H
+https://pull12.atresmedia.com/lavoz/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="3/24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ANTENA 3" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ANTENA 3
+https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CANAL PARLAMENTO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CANAL PARLAMENTO
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DIVINITY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DIVINITY
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CANAL EXTREMADURA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CANAL EXTREMADURA
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="INTERECONOMIA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",INTERECONOMIA
+https://live-edge-gra-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="13 MAX" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",13 MAX
+http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="24/7 CANAL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",24/7 CANAL
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CANAL66" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CANAL66
+http://streamingcws10.com:1935/canal66/videocanal66/.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ONCE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ONCE
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ONCE INT" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ONCE INT
+https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TURISTIK TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TURISTIK TV
+https://live.easycast.com/WArDQWjEPGjaYSa7L/nb7Wrl0K56Be1cdod_1000.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="3/24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ANTENA 3" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ANTENA 3
+https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DW ESPANOL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DW ESPANOL
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CANAL PARLAMENTO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CANAL PARLAMENTO
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CBN ESPANOL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CBN ESPANOL
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_2000_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DIVINITY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DIVINITY
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FRANCE 24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FRANCE 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_ios.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ESPORT3" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ESPORT3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="INTERECONOMIA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",INTERECONOMIA
+https://live-edge-gra-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="LA 1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",LA 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="LA VOZ 24H" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",LA VOZ 24H
+https://pull12.atresmedia.com/lavoz/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SPORT TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SPORT TV
+http://213-167-154-115.netvarp.is/beint/sporttv1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COUNTRY PROMO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COUNTRY PROMO
+https://od.lk/s/MTlfMjI2MTUyNTdf/au-promo.mp4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="4BC 1116 AM BRISBANE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",4BC 1116 AM BRISBANE
+http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ABC NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ABC NEWS
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BLOOMBERG" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BLOOMBERG
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="EXPO CHANNEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",EXPO CHANNEL
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MACQUARIE SPORTS RADIO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MACQUARIE SPORTS RADIO
+http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="PARLIAMENT TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",PARLIAMENT TV
+http://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RACING.COM" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SKY NEWS EXTRA 1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SKY NEWS EXTRA 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="THREE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",THREE
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TVSN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TVSN
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WAIRARAPA TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",WAIRARAPA TV
+http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COUNTRY PROMO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COUNTRY PROMO
+https://od.lk/s/MTlfMjI2MTUyNTZf/br-promo.mp4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ALL SPORTS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CANAL 24 HORAS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CANAL 24 HORAS
+http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CANAL RICOS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FAAP" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FAAP
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FUTURA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FUTURA
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="IN PARADISE TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",IN PARADISE TV
+https://cdn.jmvstream.com/w/inpara/_definst_/inpara/chunklist_w1305866021.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="REDE METROPOLE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",REDE METROPOLE
+http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="REDE MINAS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",REDE MINAS
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTVA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RTVA
+http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SBT" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SUMMER TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SUMMER TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TV CAPITAL LUCELIA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TV CAPITAL LUCELIA
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TVCI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TVCI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TV DESTAK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TV DESTAK
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TV DIGITAL BIRIGUI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TVDS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TVDS
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TVE BAHIA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TVE BAHIA
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TV EDUCATIVA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TV EDUCATIVA
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TV MCJ" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="WEB TV MINAS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",WEB TV MINAS
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COUNTRY PROMO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COUNTRY PROMO
+https://od.lk/s/MTlfMjI2MTUyNTVf/ca-promo.mp4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CNTV CANADA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CNTV CANADA
+https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="EMCI TV MONTRÃ©AL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",EMCI TV MONTRÃ©AL
+https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ICI RDI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TELE-QUEBEC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TELE-QUEBEC
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COUNTRY PROMO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COUNTRY PROMO
+https://od.lk/s/MTlfMjI2MTUyNTNf/cn-promo.mp4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CCTV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CCTV
+http://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_2150400_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CGNTV 1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CGNTV 1
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="U CHANNEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",U CHANNEL
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HOPE CHANNEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",HOPE CHANNEL
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MAX FINANCIAL MEDIA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MAX FINANCIAL MEDIA
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TOON MAX TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TOON MAX TV
+http://210.210.155.35/session/8f7243a0-db99-11e9-9eb4-be4382b1421f/qwr9ew/s/s50/01.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="新唐人旧金山臺" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",新唐人旧金山臺
+https://live.ntdimg.com/sflive990/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="全美電視" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",全美電視
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="保姆的目的" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",保姆的目的
+https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="新唐人加西臺" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",新唐人加西臺
+https://live.ntdimg.com/live400/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="六安公共频道" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",六安公共频道
+http://live.china-latv.com/channel2/sd/live.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="六安新闻综合" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",六安新闻综合
+http://live.china-latv.com/channel1/sd/live.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="兰州综合" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",兰州综合
+http://live.gansuyunshi.com:9090/live/LZNEW_800.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="利川新闻综合" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",利川新闻综合
+http://2147574066.cloudvdn.com/a.m3u8?domain=lichuan.live.tempsource.cjyun.org&player=bKsAADzxyLWvIsYV&secondToken=secondToken%3ANP75y6ck-s61KLPuGMcpvd_jF_I&streamid=videotmp%3Avideotmp%2Fs10093-lczh&v3=1
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="古惑仔电影" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",古惑仔电影
+http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="台湾希望电视" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",台湾希望电视
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="宿州新闻综合" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",宿州新闻综合
+http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COUNTRY PROMO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COUNTRY PROMO
+https://od.lk/s/MTlfMjI2MTUyNTJf/de-promo.mp4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="A1 NOW" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",A1 NOW
+https://vipottbpkstream.vip.hr/Content/a1-hls-vmx/Live/Channel(A1_Now_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ALLGAU TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ALLGAU TV
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="AUGSBURG TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",AUGSBURG TV
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BADEN TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BADEN TV
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BERLIN TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BERLIN TV
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DAS ERSTE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DAS ERSTE
+https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DW" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DW
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HR FERNSEHEN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",HR FERNSEHEN
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NDR HAMBURG" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NDR HAMBURG
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RFO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RFO
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TAGESSCHAU 24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TAGESSCHAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COUNTRY PROMO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COUNTRY PROMO
+https://od.lk/s/MTlfMjI2MTUyNThf/ge-promo.mp4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="2TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",2TV
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="IMEDI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",IMEDI
+http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MARAO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MARAO
+http://188.93.95.34/marao/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MUSIC BOX GEORGIA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MUSIC BOX GEORGIA
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="PALITRA NEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",PALITRA NEWS
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RUSTAVI 2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RUSTAVI 2
+http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COUNTRY PROMO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COUNTRY PROMO
+https://od.lk/s/MTlfMjI2MTUyNTlf/gr-promo.mp4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ANT1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ANT1
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="OPEN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",OPEN
+https://opentvlive.siliconweb.com/openTvLive/stream2a/.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COUNTRY PROMO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COUNTRY PROMO
+https://od.lk/s/MTlfMjI2MTUyNjRf/is-promo.mp4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ALTHINGI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ALTHINGI
+https://213-167-154-115.netvarp.is/althingi_600/tracks-v1a1/rewind-86400.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="OMEGA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",OMEGA
+http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RUV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RUV
+http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SPORT TV 3" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SPORT TV 3
+https://213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SPORT TV 4" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SPORT TV 4
+https://213-167-154-115.netvarp.is/beint/sporttv4/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SPORT TV 5" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SPORT TV 5
+https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SPORT TV 6" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SPORT TV 6
+https://213-167-154-115.netvarp.is/beint/sporttv6/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COUNTRY PROMO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COUNTRY PROMO
+https://od.lk/s/MTlfMjI2MTUyNjFf/it-promo.mp4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="AUTOMOTO TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",AUTOMOTO TV
+https://streaming.wim.tv/live/_definst_/streamingautomototv_aac/playlist.m3u8?token=6529e040-1ae7-4060-9bee-8506999bd944
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CANALE 7" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CANALE 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CENTOUNDICI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CENTOUNDICI
+http://dcunilive36-lh.akamaihd.net:80/i/dclive_1@662089/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CENTOUNDICI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CENTOUNDICI
+http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CIELO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CIELO
+https://1.ip2stream.icu/live/cielo_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DEA JUNIOR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DEA JUNIOR
+https://1.ip2stream.icu/live/dea_junior_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DMAX" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DMAX
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FM ITALIA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FM ITALIA
+http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOX ITALY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOX ITALY
+https://1.ip2stream.icu/live/fox_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="IRC SPORT TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",IRC SPORT TV
+http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ITALIA 1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ITALIA 1
+https://1.ip2stream.icu/live/italia_1_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="K2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",K2
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MOTOR TREND" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MOTOR TREND
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RAI NEWS 24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RAI NEWS 24
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SKY CINEMA FAMILY
+https://1.ip2stream.icu/live/sky_cinema_family_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COUNTRY PROMO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COUNTRY PROMO
+https://od.lk/s/MTlfMjI2MTUyNjdf/ru-promo.mp4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Авто 24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Авто 24
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/538/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Вкусное ТВ" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Вкусное ТВ
+http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Еда Премиум" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Еда Премиум
+http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Киномикс" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Киномикс
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/509/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Москва 24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Москва 24
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/523/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Мир 24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Мир 24
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/712/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Первый канал" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Первый канал
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/714/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Пятый Канал" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Пятый Канал
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/112/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="РБК  " tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",РБК  
+http://online-video.rbc.ru/online/rbctv_576p/index.m3u8?e=e5&t=1Qwzf0
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Россия 24" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Россия 24
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/507/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="РТР Планета" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",РТР Планета
+http://ott-cdn.ucom.am/s15/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ТВЦ" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Футбол" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Футбол
+http://ott-cdn.ucom.am/s41/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CTC LOVE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CTC LOVE
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/103/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Ностальгия" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Ностальгия
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/102/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Пятница" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Пятница
+http://ott-cdn.ucom.am/s50/04.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ANIMAL PLANET" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ANIMAL PLANET
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/137/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CGTN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CGTN
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/831/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CTC LOVE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CTC LOVE
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/103/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DISCOVERY SCIENCE
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/136/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="EURONEWS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",EURONEWS
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/828/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FIGHTBOX" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FIGHTBOX
+https://spi-live.ercdn.net/spi/smil:fightboxhd_0.smil/.m3u8?st=cW9PtpLVOUd51Ik2OZHiBw&e=1569185199
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOOD NETWORK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOOD NETWORK
+http://92.43.140.249/s18/04.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOX" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOX
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/550/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOX LIFE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOX LIFE
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/553/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NAT GEOGRAPHIC" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NAT GEOGRAPHIC
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/133/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NAT GEO WILD" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NAT GEO WILD
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/133/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="OCEAN TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",OCEAN TV
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTG HD" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RTG HD
+http://ott-cdn.ucom.am/s63/04.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="RTG TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",RTG TV
+http://ott-cdn.ucom.am/s80/04.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SETANTA SPORTS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SETANTA SPORTS
+http://ott-cdn.ucom.am/s81/04.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TV 1000 ACTION" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TV 1000 ACTION
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/131/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TV 1000" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TV 1000
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/101/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COUNTRY PROMO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COUNTRY PROMO
+https://od.lk/s/MTlfMjI2MTUyNTFf/tr-promo.mp4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="A HABER" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",A HABER
+http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="AKILLI TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",AKILLI TV
+http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ALMANYADA TüRK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ALMANYADA TüRK
+http://almanyadaturktv.radyotelekomtv.com:1935/almanyadaturktv/almanyadaturktv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="A SPOR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",A SPOR
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="A TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",A TV
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BEYAZ TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BEYAZ TV
+http://streams2.livetv.az/turk/beyaz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BLOOMBERG HT" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BLOOMBERG HT
+http://streams2.livetv.az/turk/bloomberg_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CAN TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CAN TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CAY TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CAY TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CNN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CNN
+http://streams2.livetv.az/turk/cnn_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DERSIM62 TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DERSIM62 TV
+http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DMAX TüRKIYE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DMAX TüRKIYE
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DREAM TV TURK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",DREAM TV TURK
+http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="EUROSTAR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",EUROSTAR
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOX" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOX
+http://streams2.livetv.az/turk/fox_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOX TüRKIYE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOX TüRKIYE
+http://streams2.livetv.az/turk/fox_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HABER TURK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",HABER TURK
+http://soledge7.dogannet.tv/S1/HLS_LIVE/haberturk/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KANAL 19" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KANAL 19
+http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KON TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KON TV
+https://59cba4d34b678.streamlock.net/live/kontv/chunklist_w286386544.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KRAL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KRAL
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KRAL PERFORMANS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KRAL PERFORMANS
+http://0ajuu84p.rocketcdn.com/kraldijital-konsertv_720/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="KRAL POP KONSER" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",KRAL POP KONSER
+http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MECLIS TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MECLIS TV
+http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MINIKA COOCUK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MINIKA COOCUK
+http://streams2.livetv.az/turk/minika_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NTV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NTV
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SEMERKAND TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SEMERKAND TV
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="SHOW" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",SHOW
+http://streams2.livetv.az/turk/showtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="STAR TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",STAR TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TEVE2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TEVE2
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TLC TüRKIYE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TLC TüRKIYE
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TRT 1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720p_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TRT AVAZ" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TRT BELGESEL" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TRT COCUK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TRT COCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TRT DIYANET" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TRT DIYANET
+https://nocvp-usd.noccdn.net/asset/7wGduAH1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TRT HABER" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TRT HABER
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TRT KURDI" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TRT KURDI
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TRT TURK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TRT TURK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TV8 TURK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TV8 TURK
+http://streams2.livetv.az/turk/tv8_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="VULSAT TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",VULSAT TV
+http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COUNTRY PROMO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COUNTRY PROMO
+https://od.lk/s/MTlfMjI2MTUyNjJf/ua-promo.mp4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="1 1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",1 1
+https://live-k2312-kbp.1plus1.video/184723/smil:184723.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="2 2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",2 2
+https://live-k2309-kbp.1plus1.video/361665/smil:361665.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="24 Канал" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",24 Канал
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="4 Канал" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",4 Канал
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="7 Канал" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",7 Канал
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="A1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",A1
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="UA TV EN / UA / RU" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",UA TV EN / UA / RU
+https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="UA:ПЕРШИЙ" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",UA:ПЕРШИЙ
+https://uapershiy-hls3.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Iнтер" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Iнтер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Iнтер " tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Iнтер 
+http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="НТН" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",НТН
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Уніан" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Уніан
+https://live-k2311-kbp.1plus1.video/288721/smil:288721.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Прямий" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Прямий
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Спорт" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Спорт
+https://live-k2306-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="K1" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",K1
+https://edge3.iptv.macc.com.ua/life/k1_2/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="LALE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",LALE
+http://stream.atr.ua/lale//live/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MEDIA Інформ" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MEDIA Інформ
+http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr/mediainfo/miod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Думская TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Думская TV
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Здоровье (Одесса)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Здоровье (Одесса)
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Круг (Одесса)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Круг (Одесса)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="НТК" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Южная волна" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Южная волна
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Репортер" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Рада" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Рада
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ЧП.INFO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ЧП.INFO
+http://109.68.40.72/life/magnolia.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="MUSIC BOX UA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",MUSIC BOX UA
+http://212.26.132.86/hls/mb_ua.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="M2" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",M2
+http://live.m2.tv/hls3/stream.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="OTV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",OTV
+http://212.26.146.148/hls/otv.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="TV5" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",TV5
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="GTV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",GTV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ТЕТ" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ТЕТ
+https://live-k2311-kbp.1plus1.video/233342/smil:233342.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ПлюсПлюс" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ПлюсПлюс
+https://live-k2306-kbp.1plus1.video/487229/smil:487229.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Бігуді" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Бігуді
+https://live-k2311-kbp.1plus1.video/335987/smil:335987.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Надія" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Надія
+http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/index_700_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Правда ТУТ" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Правда ТУТ
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Академія" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Академія
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/36chod/36chod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Вкусное ТВ" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Вкусное ТВ
+http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Донеччина ТВ" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Донеччина ТВ
+http://stream.dn.ua/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Сварожичи" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Сварожичи
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ATR" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ATR
+http://stream.atr.ua/atr/live/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ТВА" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ТВА
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="BAMBARBIA" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",BAMBARBIA
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Архат" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",Архат
+http://arhat.tv/public/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="LALE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",LALE
+http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="1TV Одеса" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",1TV Одеса
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="COUNTRY PROMO" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",COUNTRY PROMO
+https://od.lk/s/MTlfMjI2MTUyNjNf/us-promo.mp4
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ABC 7 LOS ANGELES (KABC)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ABC 7 LOS ANGELES (KABC)
+https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ABC 9 ORLANDO (WFTV)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",ABC 9 ORLANDO (WFTV)
+http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CBS 4 MIAMI (WFOR)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CBS 4 MIAMI (WFOR)
+http://190.80.3.28/CBS/CBS.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CBS 7 OHIO (WHIO)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CBS 7 OHIO (WHIO)
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CBS 7 SEATTLE (KIRO)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CBS 7 SEATTLE (KIRO)
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CBS 9 LOS ANGELES (KCAL)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CBS 9 LOS ANGELES (KCAL)
+https://dai.google.com/linear/hls/pa/event/TxSbNMu4R5anKrjV02VOBg/stream/2d27d887-2b4b-4461-b065-3efe4bd022b9:GRQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CBS 47 JACKSONVILLE (WJAX)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CBS 47 JACKSONVILLE (WJAX)
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CW BOSTON (WHDH)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CW BOSTON (WHDH)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="CW TAMPA BAY (WTOG)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",CW TAMPA BAY (WTOG)
+http://185.246.209.109:8080/CW/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOX 23 TULSA (KOKI)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOX 23 TULSA (KOKI)
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="FOX 25 BOSTON (WFXT)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",FOX 25 BOSTON (WFXT)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NBC 4 DC (WRCB)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NBC 4 DC (WRCB)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/index_1286_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NBC 5 CHICAGO (WMAQ)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NBC 5 CHICAGO (WMAQ)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/index_1286_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="NBC 11 PITTSBURGH (WPXI)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Mixed TV",NBC 11 PITTSBURGH (WPXI)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8

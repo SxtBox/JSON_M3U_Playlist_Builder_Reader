@@ -1,0 +1,16 @@
+#EXTM3U Albdroid TV Streaming #PHP Streaming Scraper (Wednesday, 26 May 2021 - 22:39:18)
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="HITS" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Futuradios France",HITS
+https://stream.futuradios.com/hits.mp3?utm_source=futuradios&utm_medium=site-player
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="DANCE" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Futuradios France",DANCE
+https://stream.futuradios.com/dance.mp3?utm_source=futuradios&utm_medium=site-player
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="POP&SWEET" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Futuradios France",POP&SWEET
+https://stream.futuradios.com/sweet.mp3?utm_source=futuradios&utm_medium=site-player
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="ROCK" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Futuradios France",ROCK
+https://stream.futuradios.com/rock.mp3?utm_source=futuradios&utm_medium=site-player
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="URBAN" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Futuradios France",URBAN
+https://stream.futuradios.com/urban.mp3?utm_source=futuradios&utm_medium=site-player
