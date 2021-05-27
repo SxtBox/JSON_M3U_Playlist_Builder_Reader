@@ -5,3 +5,4 @@
 [4] Play
 [5] Nothing
 </pre>
+![Logo](https://raw.githubusercontent.com/SxtBox/JSON_M3U_Playlist_Builder_Reader/main/Web_Player/Screenshot%2027_05_2021%20(19-25-26).png?raw=true)
