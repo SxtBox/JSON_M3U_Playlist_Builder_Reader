@@ -1,4 +1,4 @@
-# JSON M3U Playlist Builder/Reader/Kodi Player
+# JSON M3U Playlist Builder/Reader/Kodi/Web Player
 
     DEMO: https://demo.kodi.al/Streaming/Mixed_TV/Mixed_APIS/Playlist_Generator_GIT
 
