@@ -1,0 +1,136 @@
+{
+	"Albdroid_Streaming_API":{
+	"Stream_Wrapper_Data":[
+{
+    "title":"Deejay Radios ITALIA",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Deejay_Radios%20ITALIA.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Ellinikos FM Greek Radio",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Ellinikos%20FM%20Greek%20Radio.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Eurodance90",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Eurodance90.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Filmon TV",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Filmon%20TV.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Futuradio France",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Futuradio%20France.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Germany",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Germany.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Greek TV",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Greek%20TV.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Groove Cruise Podcasts",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Groove%20Cruise%20Podcasts.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Hotmix Radios",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Hotmix%20Radios.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Italian Radios",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Italian%20Radios.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"MIXED TV GLOBAL",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/MIXED%20TV%20GLOBAL.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"MIXED TV 1",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/MIXED%20TV_1.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"MIXED TV 2",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/MIXED%20TV_2.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Masters of Hardcore ALEX Events",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Masters%20of%20Hardcore%20ALEX%20Events.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Masters of Hardcore Mayhem",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Masters%20of%20Hardcore%20Mayhem.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Masters of Hardcore Podcasts",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Masters%20of%20Hardcore%20Podcasts.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Media Capital Radios",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Media%20Capital%20Radios.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"NRJ Radios",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/NRJ%20Radios.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"RTL 1025 ITALIA",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/RTL_1025%20ITALIA.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"RTS Dot FM",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/RTS_Dot_FM.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Radio Record Podcast",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Radio%20Record%20Podcast.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Radio FG dot COM",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Radio_FG_dot_COM.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Slam NL Radios",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Slam%20NL%20Radios.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Techno Live Sets Podcasts",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Techno%20Live%20Sets%20Podcasts.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Top Radios Play RUSSIA",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Top_Radios_Play_RUSSIA.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+},
+{
+    "title":"Weareone dot FM",
+    "playlist":"http://localhost/PLAYERS_DEV/JSON_Playlist_Generator/Playlist_Data/Weareone_dot_FM.m3u",
+    "thumbnail":"https://png.kodi.al/tv/albdroid/black.png"
+}
+]
+}
+}
