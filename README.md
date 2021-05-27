@@ -1,5 +1,7 @@
 # JSON M3U Playlist Builder/Reader/Kodi Player
 
+# DEMO https://demo.kodi.al/Streaming/Mixed_TV/Mixed_APIS/Playlist_Generator_GIT
+
 PASTE ANY M3U FILES IN /Playlist_Data/ PATH
 
     JSON_Playlist_Builder.php = Creating JSON_Playlist_Data.json File
