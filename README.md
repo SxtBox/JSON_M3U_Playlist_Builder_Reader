@@ -1,4 +1,4 @@
-# JSON M3U Playlist Builder Reader and Kodi Player
+# JSON M3U Playlist Builder/Reader/Kodi Player
 
 PASTE ANY M3U FILES IN /Playlist_Data/ PATH
 
